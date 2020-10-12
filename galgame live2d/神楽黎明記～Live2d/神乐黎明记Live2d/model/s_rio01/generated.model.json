@@ -1,0 +1,112 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "rio2nd_sg_01.moc",
+   "textures": [
+      "rio2nd_sg_01.2048/texture_00.png"
+   ],
+   "motions": {
+      "idle": [],
+      "rio2nd_m_00": {
+         "file": "motions/rio2nd_m_00.mtn"
+      },
+      "rio2nd_m_01": {
+         "file": "motions/rio2nd_m_01.mtn"
+      },
+      "rio2nd_m_02a": {
+         "file": "motions/rio2nd_m_02a.mtn"
+      },
+      "rio2nd_m_02b": {
+         "file": "motions/rio2nd_m_02b.mtn"
+      },
+      "rio2nd_m_03a": {
+         "file": "motions/rio2nd_m_03a.mtn"
+      },
+      "rio2nd_m_03b": {
+         "file": "motions/rio2nd_m_03b.mtn"
+      },
+      "rio2nd_m_04a": {
+         "file": "motions/rio2nd_m_04a.mtn"
+      },
+      "rio2nd_m_04b": {
+         "file": "motions/rio2nd_m_04b.mtn"
+      },
+      "rio2nd_m_05a": {
+         "file": "motions/rio2nd_m_05a.mtn"
+      },
+      "rio2nd_m_05b": {
+         "file": "motions/rio2nd_m_05b.mtn"
+      },
+      "rio2nd_m_06a": {
+         "file": "motions/rio2nd_m_06a.mtn"
+      },
+      "rio2nd_m_06b": {
+         "file": "motions/rio2nd_m_06b.mtn"
+      },
+      "rio2nd_m_07a": {
+         "file": "motions/rio2nd_m_07a.mtn"
+      },
+      "rio2nd_m_07b": {
+         "file": "motions/rio2nd_m_07b.mtn"
+      },
+      "rio2nd_m_08a": {
+         "file": "motions/rio2nd_m_08a.mtn"
+      },
+      "rio2nd_m_08b": {
+         "file": "motions/rio2nd_m_08b.mtn"
+      },
+      "rio2nd_m_09a": {
+         "file": "motions/rio2nd_m_09a.mtn"
+      },
+      "rio2nd_m_09b": {
+         "file": "motions/rio2nd_m_09b.mtn"
+      },
+      "rio2nd_m_10a": {
+         "file": "motions/rio2nd_m_10a.mtn"
+      },
+      "rio2nd_m_10b": {
+         "file": "motions/rio2nd_m_10b.mtn"
+      },
+      "rio2nd_m_11a": {
+         "file": "motions/rio2nd_m_11a.mtn"
+      },
+      "rio2nd_m_11b": {
+         "file": "motions/rio2nd_m_11b.mtn"
+      },
+      "rio2nd_m_12a": {
+         "file": "motions/rio2nd_m_12a.mtn"
+      },
+      "rio2nd_m_12b": {
+         "file": "motions/rio2nd_m_12b.mtn"
+      },
+      "rio2nd_m_13a": {
+         "file": "motions/rio2nd_m_13a.mtn"
+      },
+      "rio2nd_m_13b": {
+         "file": "motions/rio2nd_m_13b.mtn"
+      },
+      "rio2nd_m_14a": {
+         "file": "motions/rio2nd_m_14a.mtn"
+      },
+      "rio2nd_m_14b": {
+         "file": "motions/rio2nd_m_14b.mtn"
+      },
+      "rio2nd_m_15a": {
+         "file": "motions/rio2nd_m_15a.mtn"
+      },
+      "rio2nd_m_16a": {
+         "file": "motions/rio2nd_m_16a.mtn"
+      },
+      "rio2nd_m_17a": {
+         "file": "motions/rio2nd_m_17a.mtn"
+      },
+      "rio2nd_m_18a": {
+         "file": "motions/rio2nd_m_18a.mtn"
+      },
+      "rio2nd_m_19a": {
+         "file": "motions/rio2nd_m_19a.mtn"
+      },
+      "rio2nd_m_19b": {
+         "file": "motions/rio2nd_m_19b.mtn"
+      }
+   }
+}

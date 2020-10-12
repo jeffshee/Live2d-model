@@ -1,0 +1,106 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "s_maika01.moc",
+   "textures": [
+      "s_maika01.2048/texture_00.png"
+   ],
+   "motions": {
+      "idle": [],
+      "maika_m_00": {
+         "file": "motions/maika_m_00.mtn"
+      },
+      "maika_m_01": {
+         "file": "motions/maika_m_01.mtn"
+      },
+      "maika_m_02a": {
+         "file": "motions/maika_m_02a.mtn"
+      },
+      "maika_m_02b": {
+         "file": "motions/maika_m_02b.mtn"
+      },
+      "maika_m_03a": {
+         "file": "motions/maika_m_03a.mtn"
+      },
+      "maika_m_03b": {
+         "file": "motions/maika_m_03b.mtn"
+      },
+      "maika_m_04a": {
+         "file": "motions/maika_m_04a.mtn"
+      },
+      "maika_m_04b": {
+         "file": "motions/maika_m_04b.mtn"
+      },
+      "maika_m_05a": {
+         "file": "motions/maika_m_05a.mtn"
+      },
+      "maika_m_05b": {
+         "file": "motions/maika_m_05b.mtn"
+      },
+      "maika_m_06a": {
+         "file": "motions/maika_m_06a.mtn"
+      },
+      "maika_m_06b": {
+         "file": "motions/maika_m_06b.mtn"
+      },
+      "maika_m_07a": {
+         "file": "motions/maika_m_07a.mtn"
+      },
+      "maika_m_07b": {
+         "file": "motions/maika_m_07b.mtn"
+      },
+      "maika_m_08a": {
+         "file": "motions/maika_m_08a.mtn"
+      },
+      "maika_m_08b": {
+         "file": "motions/maika_m_08b.mtn"
+      },
+      "maika_m_09a": {
+         "file": "motions/maika_m_09a.mtn"
+      },
+      "maika_m_09b": {
+         "file": "motions/maika_m_09b.mtn"
+      },
+      "maika_m_10a": {
+         "file": "motions/maika_m_10a.mtn"
+      },
+      "maika_m_10b": {
+         "file": "motions/maika_m_10b.mtn"
+      },
+      "maika_m_11a": {
+         "file": "motions/maika_m_11a.mtn"
+      },
+      "maika_m_11b": {
+         "file": "motions/maika_m_11b.mtn"
+      },
+      "maika_m_12a": {
+         "file": "motions/maika_m_12a.mtn"
+      },
+      "maika_m_12b": {
+         "file": "motions/maika_m_12b.mtn"
+      },
+      "maika_m_13a": {
+         "file": "motions/maika_m_13a.mtn"
+      },
+      "maika_m_13b": {
+         "file": "motions/maika_m_13b.mtn"
+      },
+      "maika_m_14a": {
+         "file": "motions/maika_m_14a.mtn"
+      },
+      "maika_m_14b": {
+         "file": "motions/maika_m_14b.mtn"
+      },
+      "maika_m_15a": {
+         "file": "motions/maika_m_15a.mtn"
+      },
+      "maika_m_16a": {
+         "file": "motions/maika_m_16a.mtn"
+      },
+      "maika_m_17a": {
+         "file": "motions/maika_m_17a.mtn"
+      },
+      "maika_m_18a": {
+         "file": "motions/maika_m_18a.mtn"
+      }
+   }
+}

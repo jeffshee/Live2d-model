@@ -1,0 +1,62 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "s_kanade_01.moc",
+   "textures": [
+      "s_kanade_01.2048/texture_00.png"
+   ],
+   "motions": {
+      "idle": [
+         {
+            "file": "motions/idle_a.mtn"
+         },
+         {
+            "file": "motions/idle_b.mtn"
+         }
+      ],
+      "m02": {
+         "file": "motions/m02.mtn"
+      },
+      "m03": {
+         "file": "motions/m03.mtn"
+      },
+      "m04": {
+         "file": "motions/m04.mtn"
+      },
+      "m05": {
+         "file": "motions/m05.mtn"
+      },
+      "m06": {
+         "file": "motions/m06.mtn"
+      },
+      "m07": {
+         "file": "motions/m07.mtn"
+      },
+      "m08": {
+         "file": "motions/m08.mtn"
+      },
+      "m09": {
+         "file": "motions/m09.mtn"
+      },
+      "m10": {
+         "file": "motions/m10.mtn"
+      },
+      "m11": {
+         "file": "motions/m11.mtn"
+      },
+      "m12": {
+         "file": "motions/m12.mtn"
+      },
+      "m13": {
+         "file": "motions/m13.mtn"
+      },
+      "m14": {
+         "file": "motions/m14.mtn"
+      },
+      "m17": {
+         "file": "motions/m17.mtn"
+      },
+      "m18": {
+         "file": "motions/m18.mtn"
+      }
+   }
+}

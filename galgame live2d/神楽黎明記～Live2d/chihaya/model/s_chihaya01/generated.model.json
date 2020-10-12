@@ -1,0 +1,106 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "s_chihaya01.moc",
+   "textures": [
+      "s_chihaya01.2048/texture_00.png"
+   ],
+   "motions": {
+      "idle": [],
+      "chihaya_m_00": {
+         "file": "motions/chihaya_m_00.mtn"
+      },
+      "chihaya_m_01": {
+         "file": "motions/chihaya_m_01.mtn"
+      },
+      "chihaya_m_02a": {
+         "file": "motions/chihaya_m_02a.mtn"
+      },
+      "chihaya_m_02b": {
+         "file": "motions/chihaya_m_02b.mtn"
+      },
+      "chihaya_m_03a": {
+         "file": "motions/chihaya_m_03a.mtn"
+      },
+      "chihaya_m_03b": {
+         "file": "motions/chihaya_m_03b.mtn"
+      },
+      "chihaya_m_04a": {
+         "file": "motions/chihaya_m_04a.mtn"
+      },
+      "chihaya_m_04b": {
+         "file": "motions/chihaya_m_04b.mtn"
+      },
+      "chihaya_m_05a": {
+         "file": "motions/chihaya_m_05a.mtn"
+      },
+      "chihaya_m_05b": {
+         "file": "motions/chihaya_m_05b.mtn"
+      },
+      "chihaya_m_06a": {
+         "file": "motions/chihaya_m_06a.mtn"
+      },
+      "chihaya_m_06b": {
+         "file": "motions/chihaya_m_06b.mtn"
+      },
+      "chihaya_m_07a": {
+         "file": "motions/chihaya_m_07a.mtn"
+      },
+      "chihaya_m_07b": {
+         "file": "motions/chihaya_m_07b.mtn"
+      },
+      "chihaya_m_08a": {
+         "file": "motions/chihaya_m_08a.mtn"
+      },
+      "chihaya_m_08b": {
+         "file": "motions/chihaya_m_08b.mtn"
+      },
+      "chihaya_m_09a": {
+         "file": "motions/chihaya_m_09a.mtn"
+      },
+      "chihaya_m_09b": {
+         "file": "motions/chihaya_m_09b.mtn"
+      },
+      "chihaya_m_10a": {
+         "file": "motions/chihaya_m_10a.mtn"
+      },
+      "chihaya_m_10b": {
+         "file": "motions/chihaya_m_10b.mtn"
+      },
+      "chihaya_m_11a": {
+         "file": "motions/chihaya_m_11a.mtn"
+      },
+      "chihaya_m_11b": {
+         "file": "motions/chihaya_m_11b.mtn"
+      },
+      "chihaya_m_12a": {
+         "file": "motions/chihaya_m_12a.mtn"
+      },
+      "chihaya_m_12b": {
+         "file": "motions/chihaya_m_12b.mtn"
+      },
+      "chihaya_m_13a": {
+         "file": "motions/chihaya_m_13a.mtn"
+      },
+      "chihaya_m_13b": {
+         "file": "motions/chihaya_m_13b.mtn"
+      },
+      "chihaya_m_14a": {
+         "file": "motions/chihaya_m_14a.mtn"
+      },
+      "chihaya_m_14b": {
+         "file": "motions/chihaya_m_14b.mtn"
+      },
+      "chihaya_m_15a": {
+         "file": "motions/chihaya_m_15a.mtn"
+      },
+      "chihaya_m_16a": {
+         "file": "motions/chihaya_m_16a.mtn"
+      },
+      "chihaya_m_17a": {
+         "file": "motions/chihaya_m_17a.mtn"
+      },
+      "chihaya_m_18a": {
+         "file": "motions/chihaya_m_18a.mtn"
+      }
+   }
+}

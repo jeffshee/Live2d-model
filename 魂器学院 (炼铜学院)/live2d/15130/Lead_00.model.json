@@ -1,79 +1,79 @@
 {
-   "type":"Live2D Model Setting",
-   "name":"阿莎加睡衣",
-   "model":"Lead_00.moc",
-   "textures":[
+   "type": "Live2D Model Setting",
+   "name": "阿莎加睡衣",
+   "model": "Lead_00.moc",
+   "textures": [
       "textures/texture_00.png"
    ],
-   "config":{
-      "scale":1,
-      "posX":0,
-      "posY":10,
-      "offsetX":0,
-      "offsetY":0,
-      "textPosX":350,
-      "textPosY":500,
-      "mirrorX":false
+   "config": {
+      "scale": 1,
+      "posX": 0,
+      "posY": 10,
+      "offsetX": 0,
+      "offsetY": 0,
+      "textPosX": 350,
+      "textPosY": 500,
+      "mirrorX": false
    },
-   "motions":{
-      "idle":[
+   "motions": {
+      "idle": [
          {
-            "file":"motions/idle.mtn"
+            "file": "motions/idle.mtn"
          }
       ],
-      "stay":[
+      "stay": [
          {
-            "file":"motions/idle.mtn"
+            "file": "motions/idle.mtn"
          }
       ],
-      "touch_01_1":[
+      "touch_01_1": [
          {
-            "file":"motions/touch_01_1.mtn"
+            "file": "motions/touch_01_1.mtn"
          }
       ],
-      "touch_01_2":[
+      "touch_01_2": [
          {
-            "file":"motions/touch_01_2.mtn"
+            "file": "motions/touch_01_2.mtn"
          }
       ],
-      "touch_02_1":[
+      "touch_02_1": [
          {
-            "file":"motions/touch_02_1.mtn"
+            "file": "motions/touch_02_1.mtn"
          }
       ],
-      "touch_02_2":[
+      "touch_02_2": [
          {
-            "file":"motions/touch_02_1.mtn"
+            "file": "motions/touch_02_1.mtn"
          }
       ],
-      "favor_01":[
+      "favor_01": [
          {
-            "file":"motions/favor_01.mtn"
+            "file": "motions/favor_01.mtn"
          }
       ],
-      "gift_01":[
+      "gift_01": [
          {
-            "file":"motions/gift_01.mtn"
+            "file": "motions/gift_01.mtn"
          }
       ],
-      "setting_01":[
+      "setting_01": [
          {
-            "file":"motions/setting_01.mtn"
+            "file": "motions/setting_01.mtn"
          }
       ],
-      "room_01":[
+      "room_01": [
          {
-            "file":"motions/room_01.mtn"
+            "file": "motions/room_01.mtn"
          }
       ],
-      "sleep_01":[
+      "sleep_01": [
          {
-            "file":"motions/sleep_01.mtn"
+            "file": "motions/sleep_01.mtn"
          }
       ],
-      "touch_99":[
+      "touch_99": [
          {
-            "file":"motions/touch_99.mtn"
+            "file": "motions/touch_99.mtn"
          }
       ]
    }

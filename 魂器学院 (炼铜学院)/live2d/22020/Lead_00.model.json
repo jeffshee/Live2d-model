@@ -1,147 +1,147 @@
 {
-   "name":"睡衣风魔胧",
-   "model":"Lead_00.moc",
-   "textures":[
+   "name": "睡衣风魔胧",
+   "model": "Lead_00.moc",
+   "textures": [
       "textures/texture_00.png",
       "textures/texture_01.png"
    ],
-   "hit_areas":[
+   "hit_areas": [
       {
-         "name":"tap_D_PSD.09",
-         "id":"D_PSD_09"
+         "name": "tap_D_PSD.09",
+         "id": "D_PSD_09"
       }
    ],
-   "motions":{
-      "idle":[
+   "motions": {
+      "idle": [
          {
-            "file":"motions/idle.mtn",
-            "weight":1
+            "file": "motions/idle.mtn",
+            "weight": 1
          }
       ],
-      "stay":[
+      "stay": [
          {
-            "file":"motions/stay_01.mtn",
-            "fade_in":300,
-            "fade_out":300,
-            "say_text":"我刚研磨了新配方的毒药，该去找谁试下呢？",
-            "weight":1,
-            "sound":"120_00601",
-            "say_text_show_time":4
+            "file": "motions/stay_01.mtn",
+            "fade_in": 300,
+            "fade_out": 300,
+            "say_text": "我刚研磨了新配方的毒药，该去找谁试下呢？",
+            "weight": 1,
+            "sound": "120_00601",
+            "say_text_show_time": 4
          },
          {
-            "file":"motions/stay_02.mtn",
-            "fade_in":300,
-            "fade_out":300,
-            "say_text":"我发誓，风魔一族将在我的手上重放荣光！",
-            "weight":1,
-            "sound":"120_00301",
-            "say_text_show_time":5
+            "file": "motions/stay_02.mtn",
+            "fade_in": 300,
+            "fade_out": 300,
+            "say_text": "我发誓，风魔一族将在我的手上重放荣光！",
+            "weight": 1,
+            "sound": "120_00301",
+            "say_text_show_time": 5
          }
       ],
-      "tap_D_PSD.09":[
+      "tap_D_PSD.09": [
          {
-            "file":"motions/touch_pangci.mtn",
-            "sound":"120_00701",
-            "fade_in":300,
-            "fade_out":300,
-            "say_text":"你摸我做什么？是不是想从我身上盗取我祖传的秘术之卷！",
-            "say_text_show_time":10,
-            "weight":1
+            "file": "motions/touch_pangci.mtn",
+            "sound": "120_00701",
+            "fade_in": 300,
+            "fade_out": 300,
+            "say_text": "你摸我做什么？是不是想从我身上盗取我祖传的秘术之卷！",
+            "say_text_show_time": 10,
+            "weight": 1
          }
       ],
-      "tap_room":[
+      "tap_room": [
          {
-            "file":"motions/room_01.mtn",
-            "sound":"sound/120_15.ogg"
+            "file": "motions/room_01.mtn",
+            "sound": "sound/120_15.ogg"
          }
       ],
-      "tap_kanban":[
+      "tap_kanban": [
          {
-            "file":"motions/setting_01.mtn"
+            "file": "motions/setting_01.mtn"
          }
       ],
-      "tap_gift":[
+      "tap_gift": [
          {
-            "file":"motions/gift_01.mtn",
-            "sound":"120_17"
+            "file": "motions/gift_01.mtn",
+            "sound": "120_17"
          }
       ],
-      "tap_favor":[
+      "tap_favor": [
          {
-            "file":"motions/favor_01.mtn"
+            "file": "motions/favor_01.mtn"
          }
       ],
-      "tap_sleep":[
+      "tap_sleep": [
          {
-            "file":"motions/sleep_01.mtn"
+            "file": "motions/sleep_01.mtn"
          }
       ],
-      "tap_touch01":[
+      "tap_touch01": [
          {
-            "file":"motions/touch_01_1.mtn"
+            "file": "motions/touch_01_1.mtn"
          }
       ],
-      "tap_touch02":[
+      "tap_touch02": [
          {
-            "file":"motions/touch_01_2.mtn"
+            "file": "motions/touch_01_2.mtn"
          }
       ],
-      "tap_touch03":[
+      "tap_touch03": [
          {
-            "file":"motions/touch_02_1.mtn"
+            "file": "motions/touch_02_1.mtn"
          }
       ],
-      "tap_touch04":[
+      "tap_touch04": [
          {
-            "file":"motions/touch_02_2.mtn"
+            "file": "motions/touch_02_2.mtn"
          }
       ],
-      "tap_touch05":[
+      "tap_touch05": [
          {
-            "file":"motions/touch_03_1.mtn"
+            "file": "motions/touch_03_1.mtn"
          }
       ],
-      "tap_touch06":[
+      "tap_touch06": [
          {
-            "file":"motions/touch_03_2.mtn"
+            "file": "motions/touch_03_2.mtn"
          }
       ],
-      "tap_fanu":[
+      "tap_fanu": [
          {
-            "file":"motions/touch_99.mtn"
+            "file": "motions/touch_99.mtn"
          }
       ],
-      "tap_zhengchang":[
+      "tap_zhengchang": [
          {
-            "file":"motions/touch_02_1.mtn"
+            "file": "motions/touch_02_1.mtn"
          }
       ],
-      "tap_kaixin":[
+      "tap_kaixin": [
          {
-            "file":"motions/touch_02_2.mtn"
+            "file": "motions/touch_02_2.mtn"
          }
       ],
-      "tap_haixiu":[
+      "tap_haixiu": [
          {
-            "file":"motions/touch_03_2.mtn"
+            "file": "motions/touch_03_2.mtn"
          }
       ],
-      "tap_aichou":[
+      "tap_aichou": [
          {
-            "file":"motions/stay_02.mtn"
+            "file": "motions/stay_02.mtn"
          }
       ]
    },
-   "config":{
-      "scale":1.5,
-      "posX":-230,
-      "posY":110,
-      "offsetX":90,
-      "offsetY":-40,
-      "textPosX":300,
-      "textPosY":600,
-      "mirrorX":false
+   "config": {
+      "scale": 1.5,
+      "posX": -230,
+      "posY": 110,
+      "offsetX": 90,
+      "offsetY": -40,
+      "textPosX": 300,
+      "textPosY": 600,
+      "mirrorX": false
    },
-   "physics":"physics.json",
-   "aniso_level":9
+   "physics": "physics.json",
+   "aniso_level": 9
 }

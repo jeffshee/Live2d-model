@@ -1,55 +1,55 @@
 {
-  "version": "Sample 1.0.0",
-  "model": "character.dat",
-  "textures": [
-    "texture_00.png"
-  ],
-  "expressions": [
-    {
-      "name": "angry",
-      "file": "angry.exp.json"
-    },
-    {
-      "name": "confused",
-      "file": "confused.exp.json"
-    },
-    {
-      "name": "idle",
-      "file": "idle.exp.json"
-    },
-    {
-      "name": "serious",
-      "file": "serious.exp.json"
-    }
-  ],
-  "motions": {
-    "attack": [
+   "version": "Sample 1.0.0",
+   "model": "character.dat",
+   "textures": [
+      "texture_00.png"
+   ],
+   "expressions": [
       {
-        "file": "c371_02_attack.mtn",
-        "fade_in": 0,
-        "fade_out": 0
-      }
-    ],
-    "banner": [
+         "name": "angry",
+         "file": "angry.exp.json"
+      },
       {
-        "file": "c371_02_banner.mtn",
-        "fade_in": 0,
-        "fade_out": 0
-      }
-    ],
-    "hit": [
+         "name": "confused",
+         "file": "confused.exp.json"
+      },
       {
-        "file": "c371_02_hit.mtn",
-        "fade_in": 0,
-        "fade_out": 0
-      }
-    ],
-    "idle": [
+         "name": "idle",
+         "file": "idle.exp.json"
+      },
       {
-        "file": "c371_02_idle.mtn",
-        "fade_in": 0,
-        "fade_out": 0
+         "name": "serious",
+         "file": "serious.exp.json"
       }
-    ]
-  }
+   ],
+   "motions": {
+      "attack": [
+         {
+            "file": "c371_02_attack.mtn",
+            "fade_in": 0,
+            "fade_out": 0
+         }
+      ],
+      "banner": [
+         {
+            "file": "c371_02_banner.mtn",
+            "fade_in": 0,
+            "fade_out": 0
+         }
+      ],
+      "hit": [
+         {
+            "file": "c371_02_hit.mtn",
+            "fade_in": 0,
+            "fade_out": 0
+         }
+      ],
+      "idle": [
+         {
+            "file": "c371_02_idle.mtn",
+            "fade_in": 0,
+            "fade_out": 0
+         }
+      ]
+   }
 }

@@ -1,40 +1,40 @@
 {
-  "version": "Sample 1.0.0",
-  "model": "character.dat",
-  "textures": [
-    "texture_00.png"
-  ],
-  "expressions": [
-    {
-      "name": "idle",
-      "file": "idle.exp.json"
-    },
-    {
-      "name": "pain",
-      "file": "pain.exp.json"
-    }
-  ],
-  "motions": {
-    "attack": [
+   "version": "Sample 1.0.0",
+   "model": "character.dat",
+   "textures": [
+      "texture_00.png"
+   ],
+   "expressions": [
       {
-        "file": "c013_01_attack.mtn",
-        "fade_in": 0,
-        "fade_out": 0
-      }
-    ],
-    "hit": [
+         "name": "idle",
+         "file": "idle.exp.json"
+      },
       {
-        "file": "c013_01_hit.mtn",
-        "fade_in": 0,
-        "fade_out": 0
+         "name": "pain",
+         "file": "pain.exp.json"
       }
-    ],
-    "idle": [
-      {
-        "file": "c013_01_idle.mtn",
-        "fade_in": 0,
-        "fade_out": 0
-      }
-    ]
-  }
+   ],
+   "motions": {
+      "attack": [
+         {
+            "file": "c013_01_attack.mtn",
+            "fade_in": 0,
+            "fade_out": 0
+         }
+      ],
+      "hit": [
+         {
+            "file": "c013_01_hit.mtn",
+            "fade_in": 0,
+            "fade_out": 0
+         }
+      ],
+      "idle": [
+         {
+            "file": "c013_01_idle.mtn",
+            "fade_in": 0,
+            "fade_out": 0
+         }
+      ]
+   }
 }

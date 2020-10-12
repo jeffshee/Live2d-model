@@ -1,22 +1,22 @@
 {
-   "version":"Sample 1.0.0",
-   "model":"Lead_00.moc",
-   "textures":[
+   "version": "Sample 1.0.0",
+   "model": "Lead_00.moc",
+   "textures": [
       "textures/texture_00.png"
    ],
-   "motions":{
-      "idle":[
+   "motions": {
+      "idle": [
          {
-            "file":"motions/idle.mtn",
-            "fade_in":0,
-            "fade_out":0
+            "file": "motions/idle.mtn",
+            "fade_in": 0,
+            "fade_out": 0
          }
       ],
-      "stay":[
+      "stay": [
          {
-            "file":"motions/idle.mtn",
-            "fade_in":0,
-            "fade_out":0
+            "file": "motions/idle.mtn",
+            "fade_in": 0,
+            "fade_out": 0
          }
       ]
    }
