@@ -1,0 +1,113 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "kaoru_event059.moc",
+   "textures": [
+      "kaoru_event059.1024/texture_00.png"
+   ],
+   "motions": {
+      "idle": [
+         {
+            "file": "motions/idle01.mtn"
+         },
+         {
+            "file": "motions/idle02.mtn"
+         }
+      ],
+      "angry01": {
+         "file": "motions/angry01.mtn"
+      },
+      "bye01": {
+         "file": "motions/bye01.mtn"
+      },
+      "cry01": {
+         "file": "motions/cry01.mtn"
+      },
+      "kime01": {
+         "file": "motions/kime01.mtn"
+      },
+      "kime02": {
+         "file": "motions/kime02.mtn"
+      },
+      "kime03": {
+         "file": "motions/kime03.mtn"
+      },
+      "kime04": {
+         "file": "motions/kime04.mtn"
+      },
+      "kime05": {
+         "file": "motions/kime05.mtn"
+      },
+      "natural01": {
+         "file": "motions/natural01.mtn"
+      },
+      "nf01": {
+         "file": "motions/nf01.mtn"
+      },
+      "nf02": {
+         "file": "motions/nf02.mtn"
+      },
+      "nf03": {
+         "file": "motions/nf03.mtn"
+      },
+      "nf04": {
+         "file": "motions/nf04.mtn"
+      },
+      "nf05": {
+         "file": "motions/nf05.mtn"
+      },
+      "nf_left01": {
+         "file": "motions/nf_left01.mtn"
+      },
+      "nf_right01": {
+         "file": "motions/nf_right01.mtn"
+      },
+      "nnf01": {
+         "file": "motions/nnf01.mtn"
+      },
+      "nnf02": {
+         "file": "motions/nnf02.mtn"
+      },
+      "nnf03": {
+         "file": "motions/nnf03.mtn"
+      },
+      "nnf04": {
+         "file": "motions/nnf04.mtn"
+      },
+      "nnf05": {
+         "file": "motions/nnf05.mtn"
+      },
+      "nnf_left01": {
+         "file": "motions/nnf_left01.mtn"
+      },
+      "nnf_right01": {
+         "file": "motions/nnf_right01.mtn"
+      },
+      "sad01": {
+         "file": "motions/sad01.mtn"
+      },
+      "serious01": {
+         "file": "motions/serious01.mtn"
+      },
+      "serious02": {
+         "file": "motions/serious02.mtn"
+      },
+      "shame01": {
+         "file": "motions/shame01.mtn"
+      },
+      "smile01": {
+         "file": "motions/smile01.mtn"
+      },
+      "surprised01": {
+         "file": "motions/surprised01.mtn"
+      },
+      "wink01": {
+         "file": "motions/wink01.mtn"
+      },
+      "worry01": {
+         "file": "motions/worry01.mtn"
+      },
+      "worry02": {
+         "file": "motions/worry02.mtn"
+      }
+   }
+}

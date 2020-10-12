@@ -1,0 +1,13 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "himari_event099.moc",
+   "textures": [
+      "himari_event099.1024/texture_00.png"
+   ],
+   "motions": {
+      "idle": [],
+      "gacha01": {
+         "file": "motions/gacha01.mtn"
+      }
+   }
+}

@@ -1,0 +1,32 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "event033_t01.moc",
+   "textures": [
+      "1024/texture_00.png"
+   ],
+   "motions": {
+      "idle": [
+         {
+            "file": "motions/m_idle.mtn"
+         }
+      ],
+      "m_awate": {
+         "file": "motions/m_awate.mtn"
+      },
+      "m_nf01": {
+         "file": "motions/m_nf01.mtn"
+      },
+      "m_nf03": {
+         "file": "motions/m_nf03.mtn"
+      },
+      "m_nf04": {
+         "file": "motions/m_nf04.mtn"
+      },
+      "m_sad": {
+         "file": "motions/m_sad.mtn"
+      },
+      "m_surprised": {
+         "file": "motions/m_surprised.mtn"
+      }
+   }
+}

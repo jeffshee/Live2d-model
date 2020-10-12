@@ -1,0 +1,77 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "chisato_other-12.moc",
+   "textures": [
+      "chisato_other-12.1024/texture_00.png"
+   ],
+   "motions": {
+      "idle": [
+         {
+            "file": "moitons/idle01.mtn"
+         }
+      ],
+      "angry01": {
+         "file": "moitons/angry01.mtn"
+      },
+      "angry02": {
+         "file": "moitons/angry02.mtn"
+      },
+      "bye01": {
+         "file": "moitons/bye01.mtn"
+      },
+      "cry01": {
+         "file": "moitons/cry01.mtn"
+      },
+      "kime01": {
+         "file": "moitons/kime01.mtn"
+      },
+      "nf01": {
+         "file": "moitons/nf01.mtn"
+      },
+      "nf02": {
+         "file": "moitons/nf02.mtn"
+      },
+      "nf03": {
+         "file": "moitons/nf03.mtn"
+      },
+      "nf04": {
+         "file": "moitons/nf04.mtn"
+      },
+      "nf05": {
+         "file": "moitons/nf05.mtn"
+      },
+      "nf_left01": {
+         "file": "moitons/nf_left01.mtn"
+      },
+      "nf_right01": {
+         "file": "moitons/nf_right01.mtn"
+      },
+      "pui01": {
+         "file": "moitons/pui01.mtn"
+      },
+      "sad01": {
+         "file": "moitons/sad01.mtn"
+      },
+      "serious01": {
+         "file": "moitons/serious01.mtn"
+      },
+      "shame01": {
+         "file": "moitons/shame01.mtn"
+      },
+      "smile01": {
+         "file": "moitons/smile01.mtn"
+      },
+      "smile02": {
+         "file": "moitons/smile02.mtn"
+      },
+      "smile03": {
+         "file": "moitons/smile03.mtn"
+      },
+      "sneeze01": {
+         "file": "moitons/sneeze01.mtn"
+      },
+      "surprised01": {
+         "file": "moitons/surprised01.mtn"
+      }
+   }
+}

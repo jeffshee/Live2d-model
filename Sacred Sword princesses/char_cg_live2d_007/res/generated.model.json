@@ -1,0 +1,37 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "dorlamodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "DorlaDefaultMtn": {
+         "file": "DorlaDefaultMtn.mtn"
+      },
+      "DorlaLoopMtn_000": {
+         "file": "DorlaLoopMtn_000.mtn"
+      },
+      "DorlaLoopMtn_001": {
+         "file": "DorlaLoopMtn_001.mtn"
+      },
+      "DorlaLoopMtn_002": {
+         "file": "DorlaLoopMtn_002.mtn"
+      },
+      "DorlaLoopMtn_004": {
+         "file": "DorlaLoopMtn_004.mtn"
+      },
+      "DorlaMtn_000": {
+         "file": "DorlaMtn_000.mtn"
+      },
+      "DorlaMtn_001": {
+         "file": "DorlaMtn_001.mtn"
+      },
+      "DorlaMtn_002": {
+         "file": "DorlaMtn_002.mtn"
+      },
+      "DorlaMtn_004": {
+         "file": "DorlaMtn_004.mtn"
+      }
+   }
+}

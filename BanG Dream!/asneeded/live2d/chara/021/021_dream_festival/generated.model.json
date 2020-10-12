@@ -1,0 +1,13 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "yukina_dream_festival.moc",
+   "textures": [
+      "yukina_dream_festival.1024/texture_00.png"
+   ],
+   "motions": {
+      "idle": [],
+      "gacha01": {
+         "file": "motions/gacha01.mtn"
+      }
+   }
+}

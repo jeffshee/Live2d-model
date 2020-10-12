@@ -1,0 +1,37 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "alimiyamodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "AlimiyaDefaultMtn": {
+         "file": "AlimiyaDefaultMtn.mtn"
+      },
+      "AlimiyaLoopMtn_000": {
+         "file": "AlimiyaLoopMtn_000.mtn"
+      },
+      "AlimiyaLoopMtn_001": {
+         "file": "AlimiyaLoopMtn_001.mtn"
+      },
+      "AlimiyaLoopMtn_002": {
+         "file": "AlimiyaLoopMtn_002.mtn"
+      },
+      "AlimiyaLoopMtn_004": {
+         "file": "AlimiyaLoopMtn_004.mtn"
+      },
+      "AlimiyaMtn_000": {
+         "file": "AlimiyaMtn_000.mtn"
+      },
+      "AlimiyaMtn_001": {
+         "file": "AlimiyaMtn_001.mtn"
+      },
+      "AlimiyaMtn_002": {
+         "file": "AlimiyaMtn_002.mtn"
+      },
+      "AlimiyaMtn_004": {
+         "file": "AlimiyaMtn_004.mtn"
+      }
+   }
+}

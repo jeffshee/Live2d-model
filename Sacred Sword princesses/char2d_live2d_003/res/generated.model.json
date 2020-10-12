@@ -1,0 +1,38 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "carlafenamodel.moc",
+   "textures": [
+      "carlafena_model/texture_00 .png",
+      "carlafena_model/texture_01 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "CarlafenaDefaultMtn": {
+         "file": "CarlafenaDefaultMtn.mtn"
+      },
+      "CarlafenaLoopMtn_000": {
+         "file": "CarlafenaLoopMtn_000.mtn"
+      },
+      "CarlafenaLoopMtn_001": {
+         "file": "CarlafenaLoopMtn_001.mtn"
+      },
+      "CarlafenaLoopMtn_002": {
+         "file": "CarlafenaLoopMtn_002.mtn"
+      },
+      "CarlafenaLoopMtn_004": {
+         "file": "CarlafenaLoopMtn_004.mtn"
+      },
+      "CarlafenaMtn_000": {
+         "file": "CarlafenaMtn_000.mtn"
+      },
+      "CarlafenaMtn_001": {
+         "file": "CarlafenaMtn_001.mtn"
+      },
+      "CarlafenaMtn_002": {
+         "file": "CarlafenaMtn_002.mtn"
+      },
+      "CarlafenaMtn_004": {
+         "file": "CarlafenaMtn_004.mtn"
+      }
+   }
+}

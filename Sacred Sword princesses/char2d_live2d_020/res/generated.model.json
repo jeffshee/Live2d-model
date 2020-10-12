@@ -1,0 +1,38 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "daanmodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "DaanDefaultMtn": {
+         "file": "DaanDefaultMtn.mtn"
+      },
+      "DaanLoopMtn_000": {
+         "file": "DaanLoopMtn_000.mtn"
+      },
+      "DaanLoopMtn_001": {
+         "file": "DaanLoopMtn_001.mtn"
+      },
+      "DaanLoopMtn_002": {
+         "file": "DaanLoopMtn_002.mtn"
+      },
+      "DaanLoopMtn_004": {
+         "file": "DaanLoopMtn_004.mtn"
+      },
+      "DaanMtn_000": {
+         "file": "DaanMtn_000.mtn"
+      },
+      "DaanMtn_001": {
+         "file": "DaanMtn_001.mtn"
+      },
+      "DaanMtn_002": {
+         "file": "DaanMtn_002.mtn"
+      },
+      "DaanMtn_004": {
+         "file": "DaanMtn_004.mtn"
+      }
+   }
+}

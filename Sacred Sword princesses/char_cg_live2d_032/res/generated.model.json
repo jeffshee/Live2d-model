@@ -1,0 +1,39 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "sorlandamodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png",
+      "model.1024/texture_02 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "SorlandaDefaultMtn": {
+         "file": "SorlandaDefaultMtn.mtn"
+      },
+      "SorlandaLoopMtn_000": {
+         "file": "SorlandaLoopMtn_000.mtn"
+      },
+      "SorlandaLoopMtn_001": {
+         "file": "SorlandaLoopMtn_001.mtn"
+      },
+      "SorlandaLoopMtn_002": {
+         "file": "SorlandaLoopMtn_002.mtn"
+      },
+      "SorlandaLoopMtn_004": {
+         "file": "SorlandaLoopMtn_004.mtn"
+      },
+      "SorlandaMtn_000": {
+         "file": "SorlandaMtn_000.mtn"
+      },
+      "SorlandaMtn_001": {
+         "file": "SorlandaMtn_001.mtn"
+      },
+      "SorlandaMtn_002": {
+         "file": "SorlandaMtn_002.mtn"
+      },
+      "SorlandaMtn_004": {
+         "file": "SorlandaMtn_004.mtn"
+      }
+   }
+}

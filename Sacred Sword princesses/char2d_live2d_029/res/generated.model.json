@@ -1,0 +1,38 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "Char2D_029_model.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "Char2D_029_DefaultMtn": {
+         "file": "Char2D_029_DefaultMtn.mtn"
+      },
+      "Char2D_029_LoopMtn_000": {
+         "file": "Char2D_029_LoopMtn_000.mtn"
+      },
+      "Char2D_029_LoopMtn_001": {
+         "file": "Char2D_029_LoopMtn_001.mtn"
+      },
+      "Char2D_029_LoopMtn_002": {
+         "file": "Char2D_029_LoopMtn_002.mtn"
+      },
+      "Char2D_029_LoopMtn_004": {
+         "file": "Char2D_029_LoopMtn_004.mtn"
+      },
+      "Char2D_029_Mtn_000": {
+         "file": "Char2D_029_Mtn_000.mtn"
+      },
+      "Char2D_029_Mtn_001": {
+         "file": "Char2D_029_Mtn_001.mtn"
+      },
+      "Char2D_029_Mtn_002": {
+         "file": "Char2D_029_Mtn_002.mtn"
+      },
+      "Char2D_029_Mtn_004": {
+         "file": "Char2D_029_Mtn_004.mtn"
+      }
+   }
+}

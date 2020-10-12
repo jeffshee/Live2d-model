@@ -1,0 +1,39 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "smitemodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png",
+      "model.1024/texture_02 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "SmiteDefaultMtn": {
+         "file": "SmiteDefaultMtn.mtn"
+      },
+      "SmiteLoopMtn_000": {
+         "file": "SmiteLoopMtn_000.mtn"
+      },
+      "SmiteLoopMtn_001": {
+         "file": "SmiteLoopMtn_001.mtn"
+      },
+      "SmiteLoopMtn_002": {
+         "file": "SmiteLoopMtn_002.mtn"
+      },
+      "SmiteLoopMtn_004": {
+         "file": "SmiteLoopMtn_004.mtn"
+      },
+      "SmiteMtn_000": {
+         "file": "SmiteMtn_000.mtn"
+      },
+      "SmiteMtn_001": {
+         "file": "SmiteMtn_001.mtn"
+      },
+      "SmiteMtn_002": {
+         "file": "SmiteMtn_002.mtn"
+      },
+      "SmiteMtn_004": {
+         "file": "SmiteMtn_004.mtn"
+      }
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "model.moc",
+   "textures": [
+      "model.2048/android/texture_00.png"
+   ],
+   "motions": {
+      "idle": [],
+      "cutin": {
+         "file": "mtn/cutin.mtn"
+      },
+      "ease_loop": {
+         "file": "mtn/ease_loop.mtn"
+      },
+      "loop": {
+         "file": "mtn/loop.mtn"
+      }
+   }
+}

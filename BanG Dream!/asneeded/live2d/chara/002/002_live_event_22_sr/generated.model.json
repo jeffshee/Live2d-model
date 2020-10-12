@@ -1,0 +1,149 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "tae_event022_t03.moc",
+   "textures": [
+      "tae_event022_t03.1024/texture_00.png"
+   ],
+   "motions": {
+      "idle": [
+         {
+            "file": "motions/idle01.mtn"
+         },
+         {
+            "file": "motions/idle01_001.mtn"
+         },
+         {
+            "file": "motions/idle02.mtn"
+         },
+         {
+            "file": "motions/idle02_001.mtn"
+         }
+      ],
+      "angry01": {
+         "file": "motions/angry01.mtn"
+      },
+      "angry01_001": {
+         "file": "motions/angry01_001.mtn"
+      },
+      "bye01": {
+         "file": "motions/bye01.mtn"
+      },
+      "bye01_001": {
+         "file": "motions/bye01_001.mtn"
+      },
+      "cry01": {
+         "file": "motions/cry01.mtn"
+      },
+      "cry01_001": {
+         "file": "motions/cry01_001.mtn"
+      },
+      "cry03": {
+         "file": "motions/cry03.mtn"
+      },
+      "cry03_001": {
+         "file": "motions/cry03_001.mtn"
+      },
+      "eeto01": {
+         "file": "motions/eeto01.mtn"
+      },
+      "eeto01_001": {
+         "file": "motions/eeto01_001.mtn"
+      },
+      "kime01": {
+         "file": "motions/kime01.mtn"
+      },
+      "kime01_001": {
+         "file": "motions/kime01_001.mtn"
+      },
+      "nf01": {
+         "file": "motions/nf01.mtn"
+      },
+      "nf01_001": {
+         "file": "motions/nf01_001.mtn"
+      },
+      "nf02": {
+         "file": "motions/nf02.mtn"
+      },
+      "nf02_001": {
+         "file": "motions/nf02_001.mtn"
+      },
+      "nf03": {
+         "file": "motions/nf03.mtn"
+      },
+      "nf03_001": {
+         "file": "motions/nf03_001.mtn"
+      },
+      "nf04": {
+         "file": "motions/nf04.mtn"
+      },
+      "nf04_001": {
+         "file": "motions/nf04_001.mtn"
+      },
+      "nf05": {
+         "file": "motions/nf05.mtn"
+      },
+      "nf05_001": {
+         "file": "motions/nf05_001.mtn"
+      },
+      "nf_left01": {
+         "file": "motions/nf_left01.mtn"
+      },
+      "nf_left01_001": {
+         "file": "motions/nf_left01_001.mtn"
+      },
+      "nf_right01": {
+         "file": "motions/nf_right01.mtn"
+      },
+      "nf_right01_001": {
+         "file": "motions/nf_right01_001.mtn"
+      },
+      "sad01": {
+         "file": "motions/sad01.mtn"
+      },
+      "sad01_001": {
+         "file": "motions/sad01_001.mtn"
+      },
+      "serious01": {
+         "file": "motions/serious01.mtn"
+      },
+      "serious01_001": {
+         "file": "motions/serious01_001.mtn"
+      },
+      "shame01": {
+         "file": "motions/shame01.mtn"
+      },
+      "shame01_001": {
+         "file": "motions/shame01_001.mtn"
+      },
+      "sleep01": {
+         "file": "motions/sleep01.mtn"
+      },
+      "sleep01_001": {
+         "file": "motions/sleep01_001.mtn"
+      },
+      "smile01": {
+         "file": "motions/smile01.mtn"
+      },
+      "smile01_001": {
+         "file": "motions/smile01_001.mtn"
+      },
+      "smile02": {
+         "file": "motions/smile02.mtn"
+      },
+      "smile02_001": {
+         "file": "motions/smile02_001.mtn"
+      },
+      "smile03": {
+         "file": "motions/smile03.mtn"
+      },
+      "smile03_001": {
+         "file": "motions/smile03_001.mtn"
+      },
+      "surprised01": {
+         "file": "motions/surprised01.mtn"
+      },
+      "surprised01_001": {
+         "file": "motions/surprised01_001.mtn"
+      }
+   }
+}

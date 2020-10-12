@@ -1,0 +1,38 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "clairemodel0.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "ClaireDefaultMtn": {
+         "file": "ClaireDefaultMtn.mtn"
+      },
+      "ClaireLoopMtn_000": {
+         "file": "ClaireLoopMtn_000.mtn"
+      },
+      "ClaireLoopMtn_001": {
+         "file": "ClaireLoopMtn_001.mtn"
+      },
+      "ClaireLoopMtn_002": {
+         "file": "ClaireLoopMtn_002.mtn"
+      },
+      "ClaireLoopMtn_004": {
+         "file": "ClaireLoopMtn_004.mtn"
+      },
+      "ClaireMtn_000": {
+         "file": "ClaireMtn_000.mtn"
+      },
+      "ClaireMtn_001": {
+         "file": "ClaireMtn_001.mtn"
+      },
+      "ClaireMtn_002": {
+         "file": "ClaireMtn_002.mtn"
+      },
+      "ClaireMtn_004": {
+         "file": "ClaireMtn_004.mtn"
+      }
+   }
+}

@@ -1,0 +1,38 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "ligermodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "LigerDefaultMtn": {
+         "file": "LigerDefaultMtn.mtn"
+      },
+      "LigerLoopMtn_000": {
+         "file": "LigerLoopMtn_000.mtn"
+      },
+      "LigerLoopMtn_001": {
+         "file": "LigerLoopMtn_001.mtn"
+      },
+      "LigerLoopMtn_002": {
+         "file": "LigerLoopMtn_002.mtn"
+      },
+      "LigerLoopMtn_004": {
+         "file": "LigerLoopMtn_004.mtn"
+      },
+      "LigerMtn_000": {
+         "file": "LigerMtn_000.mtn"
+      },
+      "LigerMtn_001": {
+         "file": "LigerMtn_001.mtn"
+      },
+      "LigerMtn_002": {
+         "file": "LigerMtn_002.mtn"
+      },
+      "LigerMtn_004": {
+         "file": "LigerMtn_004.mtn"
+      }
+   }
+}

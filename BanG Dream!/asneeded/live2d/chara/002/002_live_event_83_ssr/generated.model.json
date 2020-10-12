@@ -1,0 +1,13 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "tae_event083.moc",
+   "textures": [
+      "tae_event083.1024/texture_00.png"
+   ],
+   "motions": {
+      "idle": [],
+      "gacha01": {
+         "file": "motions/gacha01.mtn"
+      }
+   }
+}

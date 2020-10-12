@@ -1,0 +1,13 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "kaoru_event110.moc",
+   "textures": [
+      "kaoru_event110.1024/texture_00.png"
+   ],
+   "motions": {
+      "idle": [],
+      "gacha01": {
+         "file": "motions/gacha01.mtn"
+      }
+   }
+}

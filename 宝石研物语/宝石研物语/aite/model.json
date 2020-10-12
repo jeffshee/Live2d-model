@@ -2,9 +2,7 @@
 	"type": "Live2D Model Setting",
 	"name": "aite",
 	"model": "model.moc",
-	"textures": [
-		"model.1024/texture_00.png",
-	],
+	"textures": ["model.1024/texture_00.png"],
 	"response_rate":1.5,
 	"layout":
 	{
@@ -23,6 +21,6 @@
 		[
 			{"file":"motions/dianji1.mtn","sound":"sound/at01.mp3","fade_in":0,"fade_out":0},
 			{"file":"motions/dianji2.mtn","sound":"sound/at02.mp3","fade_in":0,"fade_out":0}
-		],
+		]
 	}
 }

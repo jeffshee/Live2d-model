@@ -1,0 +1,38 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "naladiyamodel0.moc",
+   "textures": [
+      "model0.1024/texture_00 .png",
+      "model0.1024/texture_01 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "NaladiyaDefaultMtn": {
+         "file": "NaladiyaDefaultMtn.mtn"
+      },
+      "NaladiyaLoopMtn_000": {
+         "file": "NaladiyaLoopMtn_000.mtn"
+      },
+      "NaladiyaLoopMtn_001": {
+         "file": "NaladiyaLoopMtn_001.mtn"
+      },
+      "NaladiyaLoopMtn_002": {
+         "file": "NaladiyaLoopMtn_002.mtn"
+      },
+      "NaladiyaLoopMtn_004": {
+         "file": "NaladiyaLoopMtn_004.mtn"
+      },
+      "NaladiyaMtn_000": {
+         "file": "NaladiyaMtn_000.mtn"
+      },
+      "NaladiyaMtn_001": {
+         "file": "NaladiyaMtn_001.mtn"
+      },
+      "NaladiyaMtn_002": {
+         "file": "NaladiyaMtn_002.mtn"
+      },
+      "NaladiyaMtn_004": {
+         "file": "NaladiyaMtn_004.mtn"
+      }
+   }
+}

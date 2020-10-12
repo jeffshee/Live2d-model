@@ -1,0 +1,32 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "iderhelamodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "IderhelaDefaultMtn": {
+         "file": "IderhelaDefaultMtn.mtn"
+      },
+      "IderhelaLoopMtn_000": {
+         "file": "IderhelaLoopMtn_000.mtn"
+      },
+      "IderhelaLoopMtn_001": {
+         "file": "IderhelaLoopMtn_001.mtn"
+      },
+      "IderhelaLoopMtn_002": {
+         "file": "IderhelaLoopMtn_002.mtn"
+      },
+      "IderhelaMtn_000": {
+         "file": "IderhelaMtn_000.mtn"
+      },
+      "IderhelaMtn_001": {
+         "file": "IderhelaMtn_001.mtn"
+      },
+      "IderhelaMtn_002": {
+         "file": "IderhelaMtn_002.mtn"
+      }
+   }
+}

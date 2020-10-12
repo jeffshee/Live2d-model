@@ -1,0 +1,37 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "Char_045_model.moc",
+   "textures": [
+      "model.1024/texture_00 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "Char_045_DefaultMtn": {
+         "file": "Char_045_DefaultMtn.mtn"
+      },
+      "Char_045_LoopMtn_000": {
+         "file": "Char_045_LoopMtn_000.mtn"
+      },
+      "Char_045_LoopMtn_001": {
+         "file": "Char_045_LoopMtn_001.mtn"
+      },
+      "Char_045_LoopMtn_002": {
+         "file": "Char_045_LoopMtn_002.mtn"
+      },
+      "Char_045_LoopMtn_004": {
+         "file": "Char_045_LoopMtn_004.mtn"
+      },
+      "Char_045_Mtn_000": {
+         "file": "Char_045_Mtn_000.mtn"
+      },
+      "Char_045_Mtn_001": {
+         "file": "Char_045_Mtn_001.mtn"
+      },
+      "Char_045_Mtn_002": {
+         "file": "Char_045_Mtn_002.mtn"
+      },
+      "Char_045_Mtn_004": {
+         "file": "Char_045_Mtn_004.mtn"
+      }
+   }
+}

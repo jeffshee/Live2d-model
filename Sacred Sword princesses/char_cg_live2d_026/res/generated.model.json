@@ -1,0 +1,38 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "norlamodel0.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "NorlaDefaultMtn": {
+         "file": "NorlaDefaultMtn.mtn"
+      },
+      "NorlaLoopMtn_000": {
+         "file": "NorlaLoopMtn_000.mtn"
+      },
+      "NorlaLoopMtn_001": {
+         "file": "NorlaLoopMtn_001.mtn"
+      },
+      "NorlaLoopMtn_002": {
+         "file": "NorlaLoopMtn_002.mtn"
+      },
+      "NorlaLoopMtn_004": {
+         "file": "NorlaLoopMtn_004.mtn"
+      },
+      "NorlaMtn_000": {
+         "file": "NorlaMtn_000.mtn"
+      },
+      "NorlaMtn_001": {
+         "file": "NorlaMtn_001.mtn"
+      },
+      "NorlaMtn_002": {
+         "file": "NorlaMtn_002.mtn"
+      },
+      "NorlaMtn_004": {
+         "file": "NorlaMtn_004.mtn"
+      }
+   }
+}

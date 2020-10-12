@@ -1,0 +1,39 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "reinamodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png",
+      "model.1024/texture_02 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "RainaDefaultMtn": {
+         "file": "RainaDefaultMtn.mtn"
+      },
+      "RainaLoopMtn_000": {
+         "file": "RainaLoopMtn_000.mtn"
+      },
+      "RainaLoopMtn_001": {
+         "file": "RainaLoopMtn_001.mtn"
+      },
+      "RainaLoopMtn_002": {
+         "file": "RainaLoopMtn_002.mtn"
+      },
+      "RainaLoopMtn_004": {
+         "file": "RainaLoopMtn_004.mtn"
+      },
+      "RainaMtn_000": {
+         "file": "RainaMtn_000.mtn"
+      },
+      "RainaMtn_001": {
+         "file": "RainaMtn_001.mtn"
+      },
+      "RainaMtn_002": {
+         "file": "RainaMtn_002.mtn"
+      },
+      "RainaMtn_004": {
+         "file": "RainaMtn_004.mtn"
+      }
+   }
+}

@@ -1,0 +1,109 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "model.moc",
+   "textures": [
+      "model.2048/texture_00.png"
+   ],
+   "motions": {
+      "idle": [],
+      "anger": {
+         "file": "mtn/anger.mtn"
+      },
+      "anger2": {
+         "file": "mtn/anger2.mtn"
+      },
+      "anger2_loop": {
+         "file": "mtn/anger2_loop.mtn"
+      },
+      "anger_loop": {
+         "file": "mtn/anger_loop.mtn"
+      },
+      "bashful": {
+         "file": "mtn/bashful.mtn"
+      },
+      "bashful2": {
+         "file": "mtn/bashful2.mtn"
+      },
+      "bashful2_loop": {
+         "file": "mtn/bashful2_loop.mtn"
+      },
+      "bashful_loop": {
+         "file": "mtn/bashful_loop.mtn"
+      },
+      "blues": {
+         "file": "mtn/blues.mtn"
+      },
+      "blues2": {
+         "file": "mtn/blues2.mtn"
+      },
+      "blues2_loop": {
+         "file": "mtn/blues2_loop.mtn"
+      },
+      "blues_loop": {
+         "file": "mtn/blues_loop.mtn"
+      },
+      "cutin": {
+         "file": "mtn/cutin.mtn"
+      },
+      "ease": {
+         "file": "mtn/ease.mtn"
+      },
+      "ease2": {
+         "file": "mtn/ease2.mtn"
+      },
+      "ease2_loop": {
+         "file": "mtn/ease2_loop.mtn"
+      },
+      "ease_loop": {
+         "file": "mtn/ease_loop.mtn"
+      },
+      "elapse": {
+         "file": "mtn/elapse.mtn"
+      },
+      "exciting2_loop": {
+         "file": "mtn/exciting2_loop.mtn"
+      },
+      "exciting_loop": {
+         "file": "mtn/exciting_loop.mtn"
+      },
+      "joy": {
+         "file": "mtn/joy.mtn"
+      },
+      "joy2": {
+         "file": "mtn/joy2.mtn"
+      },
+      "joy2_loop": {
+         "file": "mtn/joy2_loop.mtn"
+      },
+      "joy_loop": {
+         "file": "mtn/joy_loop.mtn"
+      },
+      "loop": {
+         "file": "mtn/loop.mtn"
+      },
+      "serious_loop": {
+         "file": "mtn/serious_loop.mtn"
+      },
+      "surprise": {
+         "file": "mtn/surprise.mtn"
+      },
+      "surprise2": {
+         "file": "mtn/surprise2.mtn"
+      },
+      "surprise2_loop": {
+         "file": "mtn/surprise2_loop.mtn"
+      },
+      "surprise_loop": {
+         "file": "mtn/surprise_loop.mtn"
+      },
+      "tap1": {
+         "file": "mtn/tap1.mtn"
+      },
+      "tap2": {
+         "file": "mtn/tap2.mtn"
+      },
+      "tap3": {
+         "file": "mtn/tap3.mtn"
+      }
+   }
+}

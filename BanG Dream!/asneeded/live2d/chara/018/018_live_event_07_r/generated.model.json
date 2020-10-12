@@ -1,0 +1,13 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "chisato_event007.moc",
+   "textures": [
+      "1024/texture_00.png"
+   ],
+   "motions": {
+      "idle": [],
+      "pui01": {
+         "file": "motions/pui01.mtn"
+      }
+   }
+}

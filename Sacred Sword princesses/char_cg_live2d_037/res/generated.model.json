@@ -1,0 +1,38 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "firdymodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "FirdyDefaultMtn": {
+         "file": "FirdyDefaultMtn.mtn"
+      },
+      "FirdyLoopMtn_000": {
+         "file": "FirdyLoopMtn_000.mtn"
+      },
+      "FirdyLoopMtn_001": {
+         "file": "FirdyLoopMtn_001.mtn"
+      },
+      "FirdyLoopMtn_002": {
+         "file": "FirdyLoopMtn_002.mtn"
+      },
+      "FirdyLoopMtn_004": {
+         "file": "FirdyLoopMtn_004.mtn"
+      },
+      "FirdyMtn_000": {
+         "file": "FirdyMtn_000.mtn"
+      },
+      "FirdyMtn_001": {
+         "file": "FirdyMtn_001.mtn"
+      },
+      "FirdyMtn_002": {
+         "file": "FirdyMtn_002.mtn"
+      },
+      "FirdyMtn_004": {
+         "file": "FirdyMtn_004.mtn"
+      }
+   }
+}

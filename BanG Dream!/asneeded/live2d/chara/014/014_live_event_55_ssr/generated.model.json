@@ -1,0 +1,83 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "kanon_event055.moc",
+   "textures": [
+      "kanon_event055.1024/texture_00.png"
+   ],
+   "motions": {
+      "idle": [
+         {
+            "file": "motions/idle01.mtn"
+         },
+         {
+            "file": "motions/idle02.mtn"
+         }
+      ],
+      "angry01": {
+         "file": "motions/angry01.mtn"
+      },
+      "awate01": {
+         "file": "motions/awate01.mtn"
+      },
+      "bye01": {
+         "file": "motions/bye01.mtn"
+      },
+      "cry01": {
+         "file": "motions/cry01.mtn"
+      },
+      "gacha01": {
+         "file": "motions/gacha01.mtn"
+      },
+      "nf01": {
+         "file": "motions/nf01.mtn"
+      },
+      "nf02": {
+         "file": "motions/nf02.mtn"
+      },
+      "nf03": {
+         "file": "motions/nf03.mtn"
+      },
+      "nf04": {
+         "file": "motions/nf04.mtn"
+      },
+      "nf05": {
+         "file": "motions/nf05.mtn"
+      },
+      "nf_left01": {
+         "file": "motions/nf_left01.mtn"
+      },
+      "nf_right01": {
+         "file": "motions/nf_right01.mtn"
+      },
+      "odoodo01": {
+         "file": "motions/odoodo01.mtn"
+      },
+      "odoodo02": {
+         "file": "motions/odoodo02.mtn"
+      },
+      "sad01": {
+         "file": "motions/sad01.mtn"
+      },
+      "sad02": {
+         "file": "motions/sad02.mtn"
+      },
+      "serious01": {
+         "file": "motions/serious01.mtn"
+      },
+      "shame01": {
+         "file": "motions/shame01.mtn"
+      },
+      "smile01": {
+         "file": "motions/smile01.mtn"
+      },
+      "smile02": {
+         "file": "motions/smile02.mtn"
+      },
+      "smile03": {
+         "file": "motions/smile03.mtn"
+      },
+      "surprised01": {
+         "file": "motions/surprised01.mtn"
+      }
+   }
+}

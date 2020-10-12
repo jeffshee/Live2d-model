@@ -1,0 +1,37 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "airemiyamodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "AiremiyaDefaultMtn": {
+         "file": "AiremiyaDefaultMtn.mtn"
+      },
+      "AiremiyaLoopMtn_000": {
+         "file": "AiremiyaLoopMtn_000.mtn"
+      },
+      "AiremiyaLoopMtn_001": {
+         "file": "AiremiyaLoopMtn_001.mtn"
+      },
+      "AiremiyaLoopMtn_002": {
+         "file": "AiremiyaLoopMtn_002.mtn"
+      },
+      "AiremiyaLoopMtn_004": {
+         "file": "AiremiyaLoopMtn_004.mtn"
+      },
+      "AiremiyaMtn_000": {
+         "file": "AiremiyaMtn_000.mtn"
+      },
+      "AiremiyaMtn_001": {
+         "file": "AiremiyaMtn_001.mtn"
+      },
+      "AiremiyaMtn_002": {
+         "file": "AiremiyaMtn_002.mtn"
+      },
+      "AiremiyaMtn_004": {
+         "file": "AiremiyaMtn_004.mtn"
+      }
+   }
+}

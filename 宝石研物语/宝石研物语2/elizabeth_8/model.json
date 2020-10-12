@@ -11,7 +11,7 @@
 	{
 		"center_x":0.04,
 		"center_y":-0.19,
-		"width":1.76,
+		"width":1.76
 	},
 	"motions":
 	{
@@ -20,23 +20,23 @@
 			{"file":"motions/idle.mtn","fade_in":0,"fade_out":0},
 			{"file":"motions/idle.mtn","fade_in":0,"fade_out":0},
 			{"file":"motions/idle.mtn","fade_in":0,"fade_out":0},
-			{"file":"motions/suiji2.mtn","sound":"sound/suiji2.mp3","fade_in":0,"fade_out":0},
+			{"file":"motions/suiji2.mtn","sound":"sound/suiji2.mp3","fade_in":0,"fade_out":0}
 		],
 		"none":
 		[
-			{"file":"motions/idle.mtn","fade_in":0,"fade_out":0},
+			{"file":"motions/idle.mtn","fade_in":0,"fade_out":0}
 		],
 		"tap_head":
 		[
-			{"file":"motions/dianji.mtn","fade_in":0,"fade_out":0},
+			{"file":"motions/dianji.mtn","fade_in":0,"fade_out":0}
 		],
 		"tap_belly":
 		[
-			{"file":"motions/suiji.mtn","fade_in":0,"fade_out":0},
+			{"file":"motions/suiji.mtn","fade_in":0,"fade_out":0}
 		],
 		"guide":
 		[
-			{"file":"motions/guide.mtn","fade_in":0,"fade_out":0},
-		],
-	},
+			{"file":"motions/guide.mtn","fade_in":0,"fade_out":0}
+		]
+	}
 }

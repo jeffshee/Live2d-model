@@ -1,12 +1,8 @@
 {
 	"type": "Live2D Model Setting",
 	"name": "L_153400360",
-	"model": "L_153400360.moc",
-	"textures": [
-	],
-	"skin_textures":{
-		"153400360": ["L_153400360.2048/texture_00","L_153400360.2048/texture_01","L_153400360.2048/texture_02"]
-	},
+	"model": "model.moc",
+	"textures": ["textures/texture_00.png","textures/texture_01.png","textures/texture_02.png"],
   "trigger": [
   ],
 	"motions": {
@@ -24,7 +20,7 @@
 		  { "file": "motions/09.mtn","fade_in":0, "fade_out":0 ,"cv_id":9},
 		  { "file": "motions/10.mtn","fade_in":0, "fade_out":0 ,"cv_id":10},
 		  { "file": "motions/11.mtn","fade_in":0, "fade_out":0 ,"cv_id":11},
-		  { "file": "motions/12.mtn","fade_in":0, "fade_out":0 ,"cv_id":12},
+		  { "file": "motions/12.mtn","fade_in":0, "fade_out":0 ,"cv_id":12}
 		]
 	}
 }

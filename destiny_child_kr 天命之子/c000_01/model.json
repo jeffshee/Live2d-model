@@ -87,10 +87,6 @@
         {
             "file":"expressions/1a.exp.json",
             "name":"1a.exp.json"
-        },
-        {
-            "file":"expressions/model.json",
-            "name":"model.json"
         }
     ],
     "model":"model.moc",

@@ -1,0 +1,38 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "joanemodel0.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "JoaneDefaultMtn": {
+         "file": "JoaneDefaultMtn.mtn"
+      },
+      "JoaneLoopMtn_000": {
+         "file": "JoaneLoopMtn_000.mtn"
+      },
+      "JoaneLoopMtn_001": {
+         "file": "JoaneLoopMtn_001.mtn"
+      },
+      "JoaneLoopMtn_002": {
+         "file": "JoaneLoopMtn_002.mtn"
+      },
+      "JoaneLoopMtn_004": {
+         "file": "JoaneLoopMtn_004.mtn"
+      },
+      "JoaneMtn_000": {
+         "file": "JoaneMtn_000.mtn"
+      },
+      "JoaneMtn_001": {
+         "file": "JoaneMtn_001.mtn"
+      },
+      "JoaneMtn_002": {
+         "file": "JoaneMtn_002.mtn"
+      },
+      "JoaneMtn_004": {
+         "file": "JoaneMtn_004.mtn"
+      }
+   }
+}

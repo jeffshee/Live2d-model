@@ -1,0 +1,37 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "vermemodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "VermeDefaultMtn": {
+         "file": "VermeDefaultMtn.mtn"
+      },
+      "VermeLoopMtn_000": {
+         "file": "VermeLoopMtn_000.mtn"
+      },
+      "VermeLoopMtn_001": {
+         "file": "VermeLoopMtn_001.mtn"
+      },
+      "VermeLoopMtn_002": {
+         "file": "VermeLoopMtn_002.mtn"
+      },
+      "VermeLoopMtn_004": {
+         "file": "VermeLoopMtn_004.mtn"
+      },
+      "VermeMtn_000": {
+         "file": "VermeMtn_000.mtn"
+      },
+      "VermeMtn_001": {
+         "file": "VermeMtn_001.mtn"
+      },
+      "VermeMtn_002": {
+         "file": "VermeMtn_002.mtn"
+      },
+      "VermeMtn_004": {
+         "file": "VermeMtn_004.mtn"
+      }
+   }
+}

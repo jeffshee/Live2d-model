@@ -1,0 +1,39 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "isaramodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png",
+      "model.1024/texture_02.png"
+   ],
+   "motions": {
+      "idle": [],
+      "IsaraDefaultMtn": {
+         "file": "IsaraDefaultMtn.mtn"
+      },
+      "IsaraLoopMtn_000": {
+         "file": "IsaraLoopMtn_000.mtn"
+      },
+      "IsaraLoopMtn_001": {
+         "file": "IsaraLoopMtn_001.mtn"
+      },
+      "IsaraLoopMtn_002": {
+         "file": "IsaraLoopMtn_002.mtn"
+      },
+      "IsaraLoopMtn_004": {
+         "file": "IsaraLoopMtn_004.mtn"
+      },
+      "IsaraMtn_000": {
+         "file": "IsaraMtn_000.mtn"
+      },
+      "IsaraMtn_001": {
+         "file": "IsaraMtn_001.mtn"
+      },
+      "IsaraMtn_002": {
+         "file": "IsaraMtn_002.mtn"
+      },
+      "IsaraMtn_004": {
+         "file": "IsaraMtn_004.mtn"
+      }
+   }
+}

@@ -1,0 +1,105 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "yukina_event116.moc",
+   "textures": [
+      "yukina_event116.1024/texture_00.png",
+      "yukina_event116.1024/texture_01.png"
+   ],
+   "motions": {
+      "idle": [
+         {
+            "file": "motinos/idle01.mtn"
+         },
+         {
+            "file": "motinos/idle02.mtn"
+         }
+      ],
+      "angry01": {
+         "file": "motinos/angry01.mtn"
+      },
+      "bye01": {
+         "file": "motinos/bye01.mtn"
+      },
+      "cry01": {
+         "file": "motinos/cry01.mtn"
+      },
+      "cry02": {
+         "file": "motinos/cry02.mtn"
+      },
+      "kime01": {
+         "file": "motinos/kime01.mtn"
+      },
+      "nekodere01": {
+         "file": "motinos/nekodere01.mtn"
+      },
+      "nf01": {
+         "file": "motinos/nf01.mtn"
+      },
+      "nf02": {
+         "file": "motinos/nf02.mtn"
+      },
+      "nf03": {
+         "file": "motinos/nf03.mtn"
+      },
+      "nf04": {
+         "file": "motinos/nf04.mtn"
+      },
+      "nf05": {
+         "file": "motinos/nf05.mtn"
+      },
+      "nf_left01": {
+         "file": "motinos/nf_left01.mtn"
+      },
+      "nf_right01": {
+         "file": "motinos/nf_right01.mtn"
+      },
+      "nnf01": {
+         "file": "motinos/nnf01.mtn"
+      },
+      "nnf02": {
+         "file": "motinos/nnf02.mtn"
+      },
+      "nnf03": {
+         "file": "motinos/nnf03.mtn"
+      },
+      "nnf04": {
+         "file": "motinos/nnf04.mtn"
+      },
+      "nnf05": {
+         "file": "motinos/nnf05.mtn"
+      },
+      "nnf_left01": {
+         "file": "motinos/nnf_left01.mtn"
+      },
+      "nnf_right01": {
+         "file": "motinos/nnf_right01.mtn"
+      },
+      "odoodo01": {
+         "file": "motinos/odoodo01.mtn"
+      },
+      "pui01": {
+         "file": "motinos/pui01.mtn"
+      },
+      "sad01": {
+         "file": "motinos/sad01.mtn"
+      },
+      "serious01": {
+         "file": "motinos/serious01.mtn"
+      },
+      "shame01": {
+         "file": "motinos/shame01.mtn"
+      },
+      "sing01": {
+         "file": "motinos/sing01.mtn"
+      },
+      "smile01": {
+         "file": "motinos/smile01.mtn"
+      },
+      "smile03": {
+         "file": "motinos/smile03.mtn"
+      },
+      "surprised01": {
+         "file": "motinos/surprised01.mtn"
+      }
+   }
+}

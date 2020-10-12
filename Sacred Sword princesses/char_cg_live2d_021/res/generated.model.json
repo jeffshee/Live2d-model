@@ -1,0 +1,38 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "yellmodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "YellDefaultMtn": {
+         "file": "YellDefaultMtn.mtn"
+      },
+      "YellLoopMtn_000": {
+         "file": "YellLoopMtn_000.mtn"
+      },
+      "YellLoopMtn_001": {
+         "file": "YellLoopMtn_001.mtn"
+      },
+      "YellLoopMtn_002": {
+         "file": "YellLoopMtn_002.mtn"
+      },
+      "YellLoopMtn_004": {
+         "file": "YellLoopMtn_004.mtn"
+      },
+      "YellMtn_000": {
+         "file": "YellMtn_000.mtn"
+      },
+      "YellMtn_001": {
+         "file": "YellMtn_001.mtn"
+      },
+      "YellMtn_002": {
+         "file": "YellMtn_002.mtn"
+      },
+      "YellMtn_004": {
+         "file": "YellMtn_004.mtn"
+      }
+   }
+}

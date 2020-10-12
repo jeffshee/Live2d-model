@@ -1,0 +1,37 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "mitismodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "MitisDefaultMtn": {
+         "file": "MitisDefaultMtn.mtn"
+      },
+      "MitisLoopMtn_000": {
+         "file": "MitisLoopMtn_000.mtn"
+      },
+      "MitisLoopMtn_001": {
+         "file": "MitisLoopMtn_001.mtn"
+      },
+      "MitisLoopMtn_002": {
+         "file": "MitisLoopMtn_002.mtn"
+      },
+      "MitisLoopMtn_004": {
+         "file": "MitisLoopMtn_004.mtn"
+      },
+      "MitisMtn_000": {
+         "file": "MitisMtn_000.mtn"
+      },
+      "MitisMtn_001": {
+         "file": "MitisMtn_001.mtn"
+      },
+      "MitisMtn_002": {
+         "file": "MitisMtn_002.mtn"
+      },
+      "MitisMtn_004": {
+         "file": "MitisMtn_004.mtn"
+      }
+   }
+}

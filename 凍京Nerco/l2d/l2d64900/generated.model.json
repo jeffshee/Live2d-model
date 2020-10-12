@@ -1,0 +1,16 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "model.moc",
+   "textures": [
+      "model.1024/android/texture_00.png"
+   ],
+   "motions": {
+      "idle": [],
+      "loop": {
+         "file": "mtn/loop.mtn"
+      },
+      "serious_loop": {
+         "file": "mtn/serious_loop.mtn"
+      }
+   }
+}

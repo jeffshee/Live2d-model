@@ -1,0 +1,80 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "ran_live_r_2018_t04.moc",
+   "textures": [
+      "ran_live_r_2018_t04.1024/texture_00.png"
+   ],
+   "motions": {
+      "idle": [
+         {
+            "file": "motion/idle01.mtn"
+         },
+         {
+            "file": "motion/idle02.mtn"
+         }
+      ],
+      "angry01": {
+         "file": "motion/angry01.mtn"
+      },
+      "angry02": {
+         "file": "motion/angry02.mtn"
+      },
+      "bye01": {
+         "file": "motion/bye01.mtn"
+      },
+      "cry01": {
+         "file": "motion/cry01.mtn"
+      },
+      "kime01": {
+         "file": "motion/kime01.mtn"
+      },
+      "nf01": {
+         "file": "motion/nf01.mtn"
+      },
+      "nf02": {
+         "file": "motion/nf02.mtn"
+      },
+      "nf03": {
+         "file": "motion/nf03.mtn"
+      },
+      "nf04": {
+         "file": "motion/nf04.mtn"
+      },
+      "nf05": {
+         "file": "motion/nf05.mtn"
+      },
+      "odoodo01": {
+         "file": "motion/odoodo01.mtn"
+      },
+      "pui01": {
+         "file": "motion/pui01.mtn"
+      },
+      "sad01": {
+         "file": "motion/sad01.mtn"
+      },
+      "serious01": {
+         "file": "motion/serious01.mtn"
+      },
+      "shame01": {
+         "file": "motion/shame01.mtn"
+      },
+      "sleep01": {
+         "file": "motion/sleep01.mtn"
+      },
+      "sleep02": {
+         "file": "motion/sleep02.mtn"
+      },
+      "smile01": {
+         "file": "motion/smile01.mtn"
+      },
+      "smile02": {
+         "file": "motion/smile02.mtn"
+      },
+      "smile03": {
+         "file": "motion/smile03.mtn"
+      },
+      "surprised01": {
+         "file": "motion/surprised01.mtn"
+      }
+   }
+}

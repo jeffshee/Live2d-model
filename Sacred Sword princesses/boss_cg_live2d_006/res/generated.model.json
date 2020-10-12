@@ -1,0 +1,26 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "nealamodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "NealaDefaultMtn": {
+         "file": "NealaDefaultMtn.mtn"
+      },
+      "NealaLoopMtn_000": {
+         "file": "NealaLoopMtn_000.mtn"
+      },
+      "NealaLoopMtn_001": {
+         "file": "NealaLoopMtn_001.mtn"
+      },
+      "NealaMtn_000": {
+         "file": "NealaMtn_000.mtn"
+      },
+      "NealaMtn_001": {
+         "file": "NealaMtn_001.mtn"
+      }
+   }
+}

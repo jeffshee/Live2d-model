@@ -1,0 +1,38 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "sulimumodel0.moc",
+   "textures": [
+      "model0.1024/texture_00 .png",
+      "model0.1024/texture_01 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "SulimuDefaultMtn": {
+         "file": "SulimuDefaultMtn.mtn"
+      },
+      "SulimuLoopMtn_000": {
+         "file": "SulimuLoopMtn_000.mtn"
+      },
+      "SulimuLoopMtn_001": {
+         "file": "SulimuLoopMtn_001.mtn"
+      },
+      "SulimuLoopMtn_002": {
+         "file": "SulimuLoopMtn_002.mtn"
+      },
+      "SulimuLoopMtn_004": {
+         "file": "SulimuLoopMtn_004.mtn"
+      },
+      "SulimuMtn_000": {
+         "file": "SulimuMtn_000.mtn"
+      },
+      "SulimuMtn_001": {
+         "file": "SulimuMtn_001.mtn"
+      },
+      "SulimuMtn_002": {
+         "file": "SulimuMtn_002.mtn"
+      },
+      "SulimuMtn_004": {
+         "file": "SulimuMtn_004.mtn"
+      }
+   }
+}

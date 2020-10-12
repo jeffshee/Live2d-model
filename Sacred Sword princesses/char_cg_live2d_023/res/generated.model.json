@@ -1,0 +1,44 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "sarodymodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "SarodyDefaultMtn": {
+         "file": "SarodyDefaultMtn.mtn"
+      },
+      "SarodyLoopMtn_000": {
+         "file": "SarodyLoopMtn_000.mtn"
+      },
+      "SarodyLoopMtn_001": {
+         "file": "SarodyLoopMtn_001.mtn"
+      },
+      "SarodyLoopMtn_002": {
+         "file": "SarodyLoopMtn_002.mtn"
+      },
+      "SarodyLoopMtn_003": {
+         "file": "SarodyLoopMtn_003.mtn"
+      },
+      "SarodyLoopMtn_004": {
+         "file": "SarodyLoopMtn_004.mtn"
+      },
+      "SarodyMtn_000": {
+         "file": "SarodyMtn_000.mtn"
+      },
+      "SarodyMtn_001": {
+         "file": "SarodyMtn_001.mtn"
+      },
+      "SarodyMtn_002": {
+         "file": "SarodyMtn_002.mtn"
+      },
+      "SarodyMtn_003": {
+         "file": "SarodyMtn_003.mtn"
+      },
+      "SarodyMtn_004": {
+         "file": "SarodyMtn_004.mtn"
+      }
+   }
+}

@@ -2,7 +2,7 @@
   "version": "Sample 1.0.0",
   "model": "model.moc",
   "textures": [
-    "model.1024/texture_00 #21.png",
+    "model.1024/texture_01.png",
     "model.1024/texture_00.png"
   ],
   "groups": [

@@ -1,0 +1,37 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "nasadiyamodel0.moc",
+   "textures": [
+      "model.1024/texture_00 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "NasadiyaDefaultMtn": {
+         "file": "NasadiyaDefaultMtn.mtn"
+      },
+      "NasadiyaLoopMtn_000": {
+         "file": "NasadiyaLoopMtn_000.mtn"
+      },
+      "NasadiyaLoopMtn_001": {
+         "file": "NasadiyaLoopMtn_001.mtn"
+      },
+      "NasadiyaLoopMtn_002": {
+         "file": "NasadiyaLoopMtn_002.mtn"
+      },
+      "NasadiyaLoopMtn_004": {
+         "file": "NasadiyaLoopMtn_004.mtn"
+      },
+      "NasadiyaMtn_000": {
+         "file": "NasadiyaMtn_000.mtn"
+      },
+      "NasadiyaMtn_001": {
+         "file": "NasadiyaMtn_001.mtn"
+      },
+      "NasadiyaMtn_002": {
+         "file": "NasadiyaMtn_002.mtn"
+      },
+      "NasadiyaMtn_004": {
+         "file": "NasadiyaMtn_004.mtn"
+      }
+   }
+}

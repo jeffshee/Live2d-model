@@ -1,0 +1,40 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "airenamodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png",
+      "model.1024/texture_02 .png",
+      "model.1024/texture_03.png"
+   ],
+   "motions": {
+      "idle": [],
+      "AirenaDefaultMtn": {
+         "file": "AirenaDefaultMtn.mtn"
+      },
+      "AirenaLoopMtn_000": {
+         "file": "AirenaLoopMtn_000.mtn"
+      },
+      "AirenaLoopMtn_001": {
+         "file": "AirenaLoopMtn_001.mtn"
+      },
+      "AirenaLoopMtn_002": {
+         "file": "AirenaLoopMtn_002.mtn"
+      },
+      "AirenaLoopMtn_004": {
+         "file": "AirenaLoopMtn_004.mtn"
+      },
+      "AirenaMtn_000": {
+         "file": "AirenaMtn_000.mtn"
+      },
+      "AirenaMtn_001": {
+         "file": "AirenaMtn_001.mtn"
+      },
+      "AirenaMtn_002": {
+         "file": "AirenaMtn_002.mtn"
+      },
+      "AirenaMtn_004": {
+         "file": "AirenaMtn_004.mtn"
+      }
+   }
+}

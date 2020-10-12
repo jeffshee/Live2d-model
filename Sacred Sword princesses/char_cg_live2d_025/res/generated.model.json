@@ -1,0 +1,38 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "marcymodel0.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "MarcyDefaultMtn": {
+         "file": "MarcyDefaultMtn.mtn"
+      },
+      "MarcyLoopMtn_000": {
+         "file": "MarcyLoopMtn_000.mtn"
+      },
+      "MarcyLoopMtn_001": {
+         "file": "MarcyLoopMtn_001.mtn"
+      },
+      "MarcyLoopMtn_002": {
+         "file": "MarcyLoopMtn_002.mtn"
+      },
+      "MarcyLoopMtn_004": {
+         "file": "MarcyLoopMtn_004.mtn"
+      },
+      "MarcyMtn_000": {
+         "file": "MarcyMtn_000.mtn"
+      },
+      "MarcyMtn_001": {
+         "file": "MarcyMtn_001.mtn"
+      },
+      "MarcyMtn_002": {
+         "file": "MarcyMtn_002.mtn"
+      },
+      "MarcyMtn_004": {
+         "file": "MarcyMtn_004.mtn"
+      }
+   }
+}

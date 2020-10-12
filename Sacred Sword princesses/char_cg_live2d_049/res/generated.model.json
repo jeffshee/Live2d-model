@@ -1,0 +1,37 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "airmanirmodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "AirmanirDefaultMtn": {
+         "file": "AirmanirDefaultMtn.mtn"
+      },
+      "AirmanirLoopMtn_000": {
+         "file": "AirmanirLoopMtn_000.mtn"
+      },
+      "AirmanirLoopMtn_001": {
+         "file": "AirmanirLoopMtn_001.mtn"
+      },
+      "AirmanirLoopMtn_002": {
+         "file": "AirmanirLoopMtn_002.mtn"
+      },
+      "AirmanirLoopMtn_004": {
+         "file": "AirmanirLoopMtn_004.mtn"
+      },
+      "AirmanirMtn_000": {
+         "file": "AirmanirMtn_000.mtn"
+      },
+      "AirmanirMtn_001": {
+         "file": "AirmanirMtn_001.mtn"
+      },
+      "AirmanirMtn_002": {
+         "file": "AirmanirMtn_002.mtn"
+      },
+      "AirmanirMtn_004": {
+         "file": "AirmanirMtn_004.mtn"
+      }
+   }
+}

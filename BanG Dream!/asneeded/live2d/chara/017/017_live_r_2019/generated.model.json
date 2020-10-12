@@ -1,0 +1,41 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "hina_other-6.moc",
+   "textures": [
+      "hina_other-6.1024/texture_00.png"
+   ],
+   "motions": {
+      "idle": [
+         {
+            "file": "motions/idle02.mtn"
+         }
+      ],
+      "angry02": {
+         "file": "motions/angry02.mtn"
+      },
+      "chuni02": {
+         "file": "motions/chuni02.mtn"
+      },
+      "eeto01": {
+         "file": "motions/eeto01.mtn"
+      },
+      "oowarai01": {
+         "file": "motions/oowarai01.mtn"
+      },
+      "sayomane01": {
+         "file": "motions/sayomane01.mtn"
+      },
+      "sayomane02": {
+         "file": "motions/sayomane02.mtn"
+      },
+      "serious02": {
+         "file": "motions/serious02.mtn"
+      },
+      "sleep01": {
+         "file": "motions/sleep01.mtn"
+      },
+      "sleep02": {
+         "file": "motions/sleep02.mtn"
+      }
+   }
+}

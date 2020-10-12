@@ -1,0 +1,38 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "niya.moc",
+   "textures": [
+      "model.1024/texture_00 .png",
+      "model.1024/texture_01 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "NiyaDefaultMtn": {
+         "file": "NiyaDefaultMtn.mtn"
+      },
+      "NiyaLoopMtn_000": {
+         "file": "NiyaLoopMtn_000.mtn"
+      },
+      "NiyaLoopMtn_001": {
+         "file": "NiyaLoopMtn_001.mtn"
+      },
+      "NiyaLoopMtn_002": {
+         "file": "NiyaLoopMtn_002.mtn"
+      },
+      "NiyaLoopMtn_004": {
+         "file": "NiyaLoopMtn_004.mtn"
+      },
+      "NiyaMtn_000": {
+         "file": "NiyaMtn_000.mtn"
+      },
+      "NiyaMtn_001": {
+         "file": "NiyaMtn_001.mtn"
+      },
+      "NiyaMtn_002": {
+         "file": "NiyaMtn_002.mtn"
+      },
+      "NiyaMtn_004": {
+         "file": "NiyaMtn_004.mtn"
+      }
+   }
+}

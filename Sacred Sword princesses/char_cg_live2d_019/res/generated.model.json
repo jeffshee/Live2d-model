@@ -1,0 +1,37 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "sifilemodel.moc",
+   "textures": [
+      "model.1024/texture_00 .png"
+   ],
+   "motions": {
+      "idle": [],
+      "SifileDefaultMtn": {
+         "file": "SifileDefaultMtn.mtn"
+      },
+      "SifileLoopMtn_000": {
+         "file": "SifileLoopMtn_000.mtn"
+      },
+      "SifileLoopMtn_001": {
+         "file": "SifileLoopMtn_001.mtn"
+      },
+      "SifileLoopMtn_002": {
+         "file": "SifileLoopMtn_002.mtn"
+      },
+      "SifileLoopMtn_004": {
+         "file": "SifileLoopMtn_004.mtn"
+      },
+      "SifileMtn_000": {
+         "file": "SifileMtn_000.mtn"
+      },
+      "SifileMtn_001": {
+         "file": "SifileMtn_001.mtn"
+      },
+      "SifileMtn_002": {
+         "file": "SifileMtn_002.mtn"
+      },
+      "SifileMtn_004": {
+         "file": "SifileMtn_004.mtn"
+      }
+   }
+}
