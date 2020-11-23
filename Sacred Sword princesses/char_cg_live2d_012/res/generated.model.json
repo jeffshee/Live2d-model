@@ -5,33 +5,34 @@
       "model.1024/texture_00 .png"
    ],
    "motions": {
-      "idle": [],
-      "SarodaDefaultMtn": {
-         "file": "SarodaDefaultMtn.mtn"
-      },
-      "SarodaLoopMtn_000": {
-         "file": "SarodaLoopMtn_000.mtn"
-      },
-      "SarodaLoopMtn_001": {
-         "file": "SarodaLoopMtn_001.mtn"
-      },
-      "SarodaLoopMtn_002": {
-         "file": "SarodaLoopMtn_002.mtn"
-      },
-      "SarodaLoopMtn_004": {
-         "file": "SarodaLoopMtn_004.mtn"
-      },
-      "SarodaMtn_000": {
-         "file": "SarodaMtn_000.mtn"
-      },
-      "SarodaMtn_001": {
-         "file": "SarodaMtn_001.mtn"
-      },
-      "SarodaMtn_002": {
-         "file": "SarodaMtn_002.mtn"
-      },
-      "SarodaMtn_004": {
-         "file": "SarodaMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "SarodaDefaultMtn.mtn"
+         },
+         {
+            "file": "SarodaLoopMtn_000.mtn"
+         },
+         {
+            "file": "SarodaLoopMtn_001.mtn"
+         },
+         {
+            "file": "SarodaLoopMtn_002.mtn"
+         },
+         {
+            "file": "SarodaLoopMtn_004.mtn"
+         },
+         {
+            "file": "SarodaMtn_000.mtn"
+         },
+         {
+            "file": "SarodaMtn_001.mtn"
+         },
+         {
+            "file": "SarodaMtn_002.mtn"
+         },
+         {
+            "file": "SarodaMtn_004.mtn"
+         }
+      ]
    }
 }

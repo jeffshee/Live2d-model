@@ -5,21 +5,22 @@
       "model.2048/android/texture_00.png"
    ],
    "motions": {
-      "idle": [],
-      "anger_loop": {
-         "file": "mtn/anger_loop.mtn"
-      },
-      "bashful_loop": {
-         "file": "mtn/bashful_loop.mtn"
-      },
-      "joy_loop": {
-         "file": "mtn/joy_loop.mtn"
-      },
-      "loop": {
-         "file": "mtn/loop.mtn"
-      },
-      "serious_loop": {
-         "file": "mtn/serious_loop.mtn"
-      }
+      "idle": [
+         {
+            "file": "mtn/anger_loop.mtn"
+         },
+         {
+            "file": "mtn/bashful_loop.mtn"
+         },
+         {
+            "file": "mtn/joy_loop.mtn"
+         },
+         {
+            "file": "mtn/loop.mtn"
+         },
+         {
+            "file": "mtn/serious_loop.mtn"
+         }
+      ]
    }
 }

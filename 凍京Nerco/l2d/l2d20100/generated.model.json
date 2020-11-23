@@ -5,9 +5,10 @@
       "model.2048/android/texture_00.png"
    ],
    "motions": {
-      "idle": [],
-      "loop": {
-         "file": "mtn/l2de20100/mtn/loop.mtn"
-      }
+      "idle": [
+         {
+            "file": "mtn/l2de20100/mtn/loop.mtn"
+         }
+      ]
    }
 }

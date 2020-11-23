@@ -6,33 +6,34 @@
       "model.1024/texture_01 .png"
    ],
    "motions": {
-      "idle": [],
-      "FureiDefaultMtn": {
-         "file": "FureiDefaultMtn.mtn"
-      },
-      "FureiLoopMtn_000": {
-         "file": "FureiLoopMtn_000.mtn"
-      },
-      "FureiLoopMtn_001": {
-         "file": "FureiLoopMtn_001.mtn"
-      },
-      "FureiLoopMtn_002": {
-         "file": "FureiLoopMtn_002.mtn"
-      },
-      "FureiLoopMtn_004": {
-         "file": "FureiLoopMtn_004.mtn"
-      },
-      "FureiMtn_000": {
-         "file": "FureiMtn_000.mtn"
-      },
-      "FureiMtn_001": {
-         "file": "FureiMtn_001.mtn"
-      },
-      "FureiMtn_002": {
-         "file": "FureiMtn_002.mtn"
-      },
-      "FureiMtn_004": {
-         "file": "FureiMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "FureiDefaultMtn.mtn"
+         },
+         {
+            "file": "FureiLoopMtn_000.mtn"
+         },
+         {
+            "file": "FureiLoopMtn_001.mtn"
+         },
+         {
+            "file": "FureiLoopMtn_002.mtn"
+         },
+         {
+            "file": "FureiLoopMtn_004.mtn"
+         },
+         {
+            "file": "FureiMtn_000.mtn"
+         },
+         {
+            "file": "FureiMtn_001.mtn"
+         },
+         {
+            "file": "FureiMtn_002.mtn"
+         },
+         {
+            "file": "FureiMtn_004.mtn"
+         }
+      ]
    }
 }

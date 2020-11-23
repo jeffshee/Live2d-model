@@ -5,60 +5,61 @@
       "model.2048/android/texture_00.png"
    ],
    "motions": {
-      "idle": [],
-      "anger": {
-         "file": "mtn/anger.mtn"
-      },
-      "anger_loop": {
-         "file": "mtn/anger_loop.mtn"
-      },
-      "bashful": {
-         "file": "mtn/bashful.mtn"
-      },
-      "bashful_loop": {
-         "file": "mtn/bashful_loop.mtn"
-      },
-      "blues": {
-         "file": "mtn/blues.mtn"
-      },
-      "blues_loop": {
-         "file": "mtn/blues_loop.mtn"
-      },
-      "cutin": {
-         "file": "mtn/cutin.mtn"
-      },
-      "ease": {
-         "file": "mtn/ease.mtn"
-      },
-      "ease_loop": {
-         "file": "mtn/ease_loop.mtn"
-      },
-      "elapse": {
-         "file": "mtn/elapse.mtn"
-      },
-      "joy": {
-         "file": "mtn/joy.mtn"
-      },
-      "joy_loop": {
-         "file": "mtn/joy_loop.mtn"
-      },
-      "loop": {
-         "file": "mtn/loop.mtn"
-      },
-      "surprise": {
-         "file": "mtn/surprise.mtn"
-      },
-      "surprise_loop": {
-         "file": "mtn/surprise_loop.mtn"
-      },
-      "tap1": {
-         "file": "mtn/tap1.mtn"
-      },
-      "tap2": {
-         "file": "mtn/tap2.mtn"
-      },
-      "tap3": {
-         "file": "mtn/tap3.mtn"
-      }
+      "idle": [
+         {
+            "file": "mtn/anger.mtn"
+         },
+         {
+            "file": "mtn/anger_loop.mtn"
+         },
+         {
+            "file": "mtn/bashful.mtn"
+         },
+         {
+            "file": "mtn/bashful_loop.mtn"
+         },
+         {
+            "file": "mtn/blues.mtn"
+         },
+         {
+            "file": "mtn/blues_loop.mtn"
+         },
+         {
+            "file": "mtn/cutin.mtn"
+         },
+         {
+            "file": "mtn/ease.mtn"
+         },
+         {
+            "file": "mtn/ease_loop.mtn"
+         },
+         {
+            "file": "mtn/elapse.mtn"
+         },
+         {
+            "file": "mtn/joy.mtn"
+         },
+         {
+            "file": "mtn/joy_loop.mtn"
+         },
+         {
+            "file": "mtn/loop.mtn"
+         },
+         {
+            "file": "mtn/surprise.mtn"
+         },
+         {
+            "file": "mtn/surprise_loop.mtn"
+         },
+         {
+            "file": "mtn/tap1.mtn"
+         },
+         {
+            "file": "mtn/tap2.mtn"
+         },
+         {
+            "file": "mtn/tap3.mtn"
+         }
+      ]
    }
 }

@@ -5,15 +5,16 @@
       "misaki.1024/texture_00.png"
    ],
    "motions": {
-      "idle": [],
-      "m_nf01": {
-         "file": "motions/m_nf01.mtn"
-      },
-      "m_nf03": {
-         "file": "motions/m_nf03.mtn"
-      },
-      "m_nf04": {
-         "file": "motions/m_nf04.mtn"
-      }
+      "idle": [
+         {
+            "file": "motions/m_nf01.mtn"
+         },
+         {
+            "file": "motions/m_nf03.mtn"
+         },
+         {
+            "file": "motions/m_nf04.mtn"
+         }
+      ]
    }
 }

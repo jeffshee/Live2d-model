@@ -5,15 +5,16 @@
       "model.2048/android/texture_00.png"
    ],
    "motions": {
-      "idle": [],
-      "blues": {
-         "file": "mtn/blues.mtn"
-      },
-      "joy": {
-         "file": "mtn/joy.mtn"
-      },
-      "loop": {
-         "file": "mtn/loop.mtn"
-      }
+      "idle": [
+         {
+            "file": "mtn/blues.mtn"
+         },
+         {
+            "file": "mtn/joy.mtn"
+         },
+         {
+            "file": "mtn/loop.mtn"
+         }
+      ]
    }
 }

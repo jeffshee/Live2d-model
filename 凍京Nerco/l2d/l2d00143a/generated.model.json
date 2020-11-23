@@ -5,60 +5,61 @@
       "model.2048/android/texture_00.png"
    ],
    "motions": {
-      "idle": [],
-      "anger": {
-         "file": "mtn/anger.mtn"
-      },
-      "anger_loop": {
-         "file": "mtn/anger_loop.mtn"
-      },
-      "bashful": {
-         "file": "mtn/bashful.mtn"
-      },
-      "bashful_loop": {
-         "file": "mtn/bashful_loop.mtn"
-      },
-      "blues": {
-         "file": "mtn/blues.mtn"
-      },
-      "blues2": {
-         "file": "mtn/blues2.mtn"
-      },
-      "blues2_loop": {
-         "file": "mtn/blues2_loop.mtn"
-      },
-      "blues_loop": {
-         "file": "mtn/blues_loop.mtn"
-      },
-      "ease": {
-         "file": "mtn/ease.mtn"
-      },
-      "ease2": {
-         "file": "mtn/ease2.mtn"
-      },
-      "ease2_loop": {
-         "file": "mtn/ease2_loop.mtn"
-      },
-      "ease_loop": {
-         "file": "mtn/ease_loop.mtn"
-      },
-      "joy": {
-         "file": "mtn/joy.mtn"
-      },
-      "joy_loop": {
-         "file": "mtn/joy_loop.mtn"
-      },
-      "loop": {
-         "file": "mtn/loop.mtn"
-      },
-      "serious_loop": {
-         "file": "mtn/serious_loop.mtn"
-      },
-      "surprise": {
-         "file": "mtn/surprise.mtn"
-      },
-      "surprise_loop": {
-         "file": "mtn/surprise_loop.mtn"
-      }
+      "idle": [
+         {
+            "file": "mtn/anger.mtn"
+         },
+         {
+            "file": "mtn/anger_loop.mtn"
+         },
+         {
+            "file": "mtn/bashful.mtn"
+         },
+         {
+            "file": "mtn/bashful_loop.mtn"
+         },
+         {
+            "file": "mtn/blues.mtn"
+         },
+         {
+            "file": "mtn/blues2.mtn"
+         },
+         {
+            "file": "mtn/blues2_loop.mtn"
+         },
+         {
+            "file": "mtn/blues_loop.mtn"
+         },
+         {
+            "file": "mtn/ease.mtn"
+         },
+         {
+            "file": "mtn/ease2.mtn"
+         },
+         {
+            "file": "mtn/ease2_loop.mtn"
+         },
+         {
+            "file": "mtn/ease_loop.mtn"
+         },
+         {
+            "file": "mtn/joy.mtn"
+         },
+         {
+            "file": "mtn/joy_loop.mtn"
+         },
+         {
+            "file": "mtn/loop.mtn"
+         },
+         {
+            "file": "mtn/serious_loop.mtn"
+         },
+         {
+            "file": "mtn/surprise.mtn"
+         },
+         {
+            "file": "mtn/surprise_loop.mtn"
+         }
+      ]
    }
 }

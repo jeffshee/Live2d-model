@@ -6,33 +6,34 @@
       "model.1024/texture_01 .png"
    ],
    "motions": {
-      "idle": [],
-      "AngellaDefaultMtn": {
-         "file": "AngellaDefaultMtn.mtn"
-      },
-      "AngellaLoopMtn_000": {
-         "file": "AngellaLoopMtn_000.mtn"
-      },
-      "AngellaLoopMtn_001": {
-         "file": "AngellaLoopMtn_001.mtn"
-      },
-      "AngellaLoopMtn_002": {
-         "file": "AngellaLoopMtn_002.mtn"
-      },
-      "AngellaLoopMtn_004": {
-         "file": "AngellaLoopMtn_004.mtn"
-      },
-      "AngellaMtn_000": {
-         "file": "AngellaMtn_000.mtn"
-      },
-      "AngellaMtn_001": {
-         "file": "AngellaMtn_001.mtn"
-      },
-      "AngellaMtn_002": {
-         "file": "AngellaMtn_002.mtn"
-      },
-      "AngellaMtn_004": {
-         "file": "AngellaMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "AngellaDefaultMtn.mtn"
+         },
+         {
+            "file": "AngellaLoopMtn_000.mtn"
+         },
+         {
+            "file": "AngellaLoopMtn_001.mtn"
+         },
+         {
+            "file": "AngellaLoopMtn_002.mtn"
+         },
+         {
+            "file": "AngellaLoopMtn_004.mtn"
+         },
+         {
+            "file": "AngellaMtn_000.mtn"
+         },
+         {
+            "file": "AngellaMtn_001.mtn"
+         },
+         {
+            "file": "AngellaMtn_002.mtn"
+         },
+         {
+            "file": "AngellaMtn_004.mtn"
+         }
+      ]
    }
 }

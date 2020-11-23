@@ -8,97 +8,97 @@
       "idle": [
          {
             "file": "motions/yukari_m_01_idle.mtn"
+         },
+         {
+            "file": "motions/yukari_m_02a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_02b.mtn"
+         },
+         {
+            "file": "motions/yukari_m_03a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_03b.mtn"
+         },
+         {
+            "file": "motions/yukari_m_04a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_04b.mtn"
+         },
+         {
+            "file": "motions/yukari_m_05a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_05b.mtn"
+         },
+         {
+            "file": "motions/yukari_m_06a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_06b.mtn"
+         },
+         {
+            "file": "motions/yukari_m_07a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_07b.mtn"
+         },
+         {
+            "file": "motions/yukari_m_08a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_08b.mtn"
+         },
+         {
+            "file": "motions/yukari_m_09a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_09b.mtn"
+         },
+         {
+            "file": "motions/yukari_m_10a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_10b.mtn"
+         },
+         {
+            "file": "motions/yukari_m_11a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_11b.mtn"
+         },
+         {
+            "file": "motions/yukari_m_12a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_12b.mtn"
+         },
+         {
+            "file": "motions/yukari_m_13a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_14a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_15a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_16a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_17a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_18a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_19a.mtn"
+         },
+         {
+            "file": "motions/yukari_m_19b.mtn"
          }
-      ],
-      "yukari_m_02a": {
-         "file": "motions/yukari_m_02a.mtn"
-      },
-      "yukari_m_02b": {
-         "file": "motions/yukari_m_02b.mtn"
-      },
-      "yukari_m_03a": {
-         "file": "motions/yukari_m_03a.mtn"
-      },
-      "yukari_m_03b": {
-         "file": "motions/yukari_m_03b.mtn"
-      },
-      "yukari_m_04a": {
-         "file": "motions/yukari_m_04a.mtn"
-      },
-      "yukari_m_04b": {
-         "file": "motions/yukari_m_04b.mtn"
-      },
-      "yukari_m_05a": {
-         "file": "motions/yukari_m_05a.mtn"
-      },
-      "yukari_m_05b": {
-         "file": "motions/yukari_m_05b.mtn"
-      },
-      "yukari_m_06a": {
-         "file": "motions/yukari_m_06a.mtn"
-      },
-      "yukari_m_06b": {
-         "file": "motions/yukari_m_06b.mtn"
-      },
-      "yukari_m_07a": {
-         "file": "motions/yukari_m_07a.mtn"
-      },
-      "yukari_m_07b": {
-         "file": "motions/yukari_m_07b.mtn"
-      },
-      "yukari_m_08a": {
-         "file": "motions/yukari_m_08a.mtn"
-      },
-      "yukari_m_08b": {
-         "file": "motions/yukari_m_08b.mtn"
-      },
-      "yukari_m_09a": {
-         "file": "motions/yukari_m_09a.mtn"
-      },
-      "yukari_m_09b": {
-         "file": "motions/yukari_m_09b.mtn"
-      },
-      "yukari_m_10a": {
-         "file": "motions/yukari_m_10a.mtn"
-      },
-      "yukari_m_10b": {
-         "file": "motions/yukari_m_10b.mtn"
-      },
-      "yukari_m_11a": {
-         "file": "motions/yukari_m_11a.mtn"
-      },
-      "yukari_m_11b": {
-         "file": "motions/yukari_m_11b.mtn"
-      },
-      "yukari_m_12a": {
-         "file": "motions/yukari_m_12a.mtn"
-      },
-      "yukari_m_12b": {
-         "file": "motions/yukari_m_12b.mtn"
-      },
-      "yukari_m_13a": {
-         "file": "motions/yukari_m_13a.mtn"
-      },
-      "yukari_m_14a": {
-         "file": "motions/yukari_m_14a.mtn"
-      },
-      "yukari_m_15a": {
-         "file": "motions/yukari_m_15a.mtn"
-      },
-      "yukari_m_16a": {
-         "file": "motions/yukari_m_16a.mtn"
-      },
-      "yukari_m_17a": {
-         "file": "motions/yukari_m_17a.mtn"
-      },
-      "yukari_m_18a": {
-         "file": "motions/yukari_m_18a.mtn"
-      },
-      "yukari_m_19a": {
-         "file": "motions/yukari_m_19a.mtn"
-      },
-      "yukari_m_19b": {
-         "file": "motions/yukari_m_19b.mtn"
-      }
+      ]
    }
 }

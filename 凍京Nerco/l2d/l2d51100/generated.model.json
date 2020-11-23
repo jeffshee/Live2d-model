@@ -5,24 +5,25 @@
       "model.2048/android/texture_00.png"
    ],
    "motions": {
-      "idle": [],
-      "anger": {
-         "file": "mtn/anger.mtn"
-      },
-      "blues": {
-         "file": "mtn/blues.mtn"
-      },
-      "cutin": {
-         "file": "mtn/cutin.mtn"
-      },
-      "ease": {
-         "file": "mtn/ease.mtn"
-      },
-      "joy": {
-         "file": "mtn/joy.mtn"
-      },
-      "loop": {
-         "file": "mtn/loop.mtn"
-      }
+      "idle": [
+         {
+            "file": "mtn/anger.mtn"
+         },
+         {
+            "file": "mtn/blues.mtn"
+         },
+         {
+            "file": "mtn/cutin.mtn"
+         },
+         {
+            "file": "mtn/ease.mtn"
+         },
+         {
+            "file": "mtn/joy.mtn"
+         },
+         {
+            "file": "mtn/loop.mtn"
+         }
+      ]
    }
 }

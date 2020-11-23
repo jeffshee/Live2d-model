@@ -5,33 +5,34 @@
       "model.1024/texture_00 .png"
    ],
    "motions": {
-      "idle": [],
-      "RirianDefaultMtn": {
-         "file": "RirianDefaultMtn.mtn"
-      },
-      "RirianLoopMtn_000": {
-         "file": "RirianLoopMtn_000.mtn"
-      },
-      "RirianLoopMtn_001": {
-         "file": "RirianLoopMtn_001.mtn"
-      },
-      "RirianLoopMtn_002": {
-         "file": "RirianLoopMtn_002.mtn"
-      },
-      "RirianLoopMtn_004": {
-         "file": "RirianLoopMtn_004.mtn"
-      },
-      "RirianMtn_000": {
-         "file": "RirianMtn_000.mtn"
-      },
-      "RirianMtn_001": {
-         "file": "RirianMtn_001.mtn"
-      },
-      "RirianMtn_002": {
-         "file": "RirianMtn_002.mtn"
-      },
-      "RirianMtn_004": {
-         "file": "RirianMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "RirianDefaultMtn.mtn"
+         },
+         {
+            "file": "RirianLoopMtn_000.mtn"
+         },
+         {
+            "file": "RirianLoopMtn_001.mtn"
+         },
+         {
+            "file": "RirianLoopMtn_002.mtn"
+         },
+         {
+            "file": "RirianLoopMtn_004.mtn"
+         },
+         {
+            "file": "RirianMtn_000.mtn"
+         },
+         {
+            "file": "RirianMtn_001.mtn"
+         },
+         {
+            "file": "RirianMtn_002.mtn"
+         },
+         {
+            "file": "RirianMtn_004.mtn"
+         }
+      ]
    }
 }

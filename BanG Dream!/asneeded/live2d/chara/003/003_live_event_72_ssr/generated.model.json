@@ -5,9 +5,10 @@
       "rimi_event072.1024/texture_00.png"
    ],
    "motions": {
-      "idle": [],
-      "gacha01": {
-         "file": "motions/gacha01.mtn"
-      }
+      "idle": [
+         {
+            "file": "motions/gacha01.mtn"
+         }
+      ]
    }
 }

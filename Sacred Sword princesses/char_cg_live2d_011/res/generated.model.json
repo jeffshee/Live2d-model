@@ -5,33 +5,34 @@
       "model.1024/texture_00 .png"
    ],
    "motions": {
-      "idle": [],
-      "MarianDefaultMtn": {
-         "file": "MarianDefaultMtn.mtn"
-      },
-      "MarianLoopMtn_000": {
-         "file": "MarianLoopMtn_000.mtn"
-      },
-      "MarianLoopMtn_001": {
-         "file": "MarianLoopMtn_001.mtn"
-      },
-      "MarianLoopMtn_002": {
-         "file": "MarianLoopMtn_002.mtn"
-      },
-      "MarianLoopMtn_004": {
-         "file": "MarianLoopMtn_004.mtn"
-      },
-      "MarianMtn_000": {
-         "file": "MarianMtn_000.mtn"
-      },
-      "MarianMtn_001": {
-         "file": "MarianMtn_001.mtn"
-      },
-      "MarianMtn_002": {
-         "file": "MarianMtn_002.mtn"
-      },
-      "MarianMtn_004": {
-         "file": "MarianMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "MarianDefaultMtn.mtn"
+         },
+         {
+            "file": "MarianLoopMtn_000.mtn"
+         },
+         {
+            "file": "MarianLoopMtn_001.mtn"
+         },
+         {
+            "file": "MarianLoopMtn_002.mtn"
+         },
+         {
+            "file": "MarianLoopMtn_004.mtn"
+         },
+         {
+            "file": "MarianMtn_000.mtn"
+         },
+         {
+            "file": "MarianMtn_001.mtn"
+         },
+         {
+            "file": "MarianMtn_002.mtn"
+         },
+         {
+            "file": "MarianMtn_004.mtn"
+         }
+      ]
    }
 }

@@ -6,33 +6,34 @@
       "model.1024/texture_01 .png"
    ],
    "motions": {
-      "idle": [],
-      "MarinDefaultMtn": {
-         "file": "MarinDefaultMtn.mtn"
-      },
-      "MarinLoopMtn_000": {
-         "file": "MarinLoopMtn_000.mtn"
-      },
-      "MarinLoopMtn_001": {
-         "file": "MarinLoopMtn_001.mtn"
-      },
-      "MarinLoopMtn_002": {
-         "file": "MarinLoopMtn_002.mtn"
-      },
-      "MarinLoopMtn_004": {
-         "file": "MarinLoopMtn_004.mtn"
-      },
-      "MarinMtn_000": {
-         "file": "MarinMtn_000.mtn"
-      },
-      "MarinMtn_001": {
-         "file": "MarinMtn_001.mtn"
-      },
-      "MarinMtn_002": {
-         "file": "MarinMtn_002.mtn"
-      },
-      "MarinMtn_004": {
-         "file": "MarinMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "MarinDefaultMtn.mtn"
+         },
+         {
+            "file": "MarinLoopMtn_000.mtn"
+         },
+         {
+            "file": "MarinLoopMtn_001.mtn"
+         },
+         {
+            "file": "MarinLoopMtn_002.mtn"
+         },
+         {
+            "file": "MarinLoopMtn_004.mtn"
+         },
+         {
+            "file": "MarinMtn_000.mtn"
+         },
+         {
+            "file": "MarinMtn_001.mtn"
+         },
+         {
+            "file": "MarinMtn_002.mtn"
+         },
+         {
+            "file": "MarinMtn_004.mtn"
+         }
+      ]
    }
 }

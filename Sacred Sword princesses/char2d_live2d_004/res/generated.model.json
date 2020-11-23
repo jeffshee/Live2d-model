@@ -6,39 +6,40 @@
       "model.1024/texture_01 .png"
    ],
    "motions": {
-      "idle": [],
-      "MadierdaDefaultMtn": {
-         "file": "MadierdaDefaultMtn.mtn"
-      },
-      "MadierdaLoopMtn_000": {
-         "file": "MadierdaLoopMtn_000.mtn"
-      },
-      "MadierdaLoopMtn_001": {
-         "file": "MadierdaLoopMtn_001.mtn"
-      },
-      "MadierdaLoopMtn_002": {
-         "file": "MadierdaLoopMtn_002.mtn"
-      },
-      "MadierdaLoopMtn_003": {
-         "file": "MadierdaLoopMtn_003.mtn"
-      },
-      "MadierdaLoopMtn_004": {
-         "file": "MadierdaLoopMtn_004.mtn"
-      },
-      "MadierdaMtn_000": {
-         "file": "MadierdaMtn_000.mtn"
-      },
-      "MadierdaMtn_001": {
-         "file": "MadierdaMtn_001.mtn"
-      },
-      "MadierdaMtn_002": {
-         "file": "MadierdaMtn_002.mtn"
-      },
-      "MadierdaMtn_003": {
-         "file": "MadierdaMtn_003.mtn"
-      },
-      "MadierdaMtn_004": {
-         "file": "MadierdaMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "MadierdaDefaultMtn.mtn"
+         },
+         {
+            "file": "MadierdaLoopMtn_000.mtn"
+         },
+         {
+            "file": "MadierdaLoopMtn_001.mtn"
+         },
+         {
+            "file": "MadierdaLoopMtn_002.mtn"
+         },
+         {
+            "file": "MadierdaLoopMtn_003.mtn"
+         },
+         {
+            "file": "MadierdaLoopMtn_004.mtn"
+         },
+         {
+            "file": "MadierdaMtn_000.mtn"
+         },
+         {
+            "file": "MadierdaMtn_001.mtn"
+         },
+         {
+            "file": "MadierdaMtn_002.mtn"
+         },
+         {
+            "file": "MadierdaMtn_003.mtn"
+         },
+         {
+            "file": "MadierdaMtn_004.mtn"
+         }
+      ]
    }
 }

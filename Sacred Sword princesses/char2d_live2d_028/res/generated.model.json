@@ -6,33 +6,34 @@
       "model.1024/texture_01 .png"
    ],
    "motions": {
-      "idle": [],
-      "Char2D_028_DefaultMtn": {
-         "file": "Char2D_028_DefaultMtn.mtn"
-      },
-      "Char2D_028_LoopMtn_000": {
-         "file": "Char2D_028_LoopMtn_000.mtn"
-      },
-      "Char2D_028_LoopMtn_001": {
-         "file": "Char2D_028_LoopMtn_001.mtn"
-      },
-      "Char2D_028_LoopMtn_002": {
-         "file": "Char2D_028_LoopMtn_002.mtn"
-      },
-      "Char2D_028_LoopMtn_004": {
-         "file": "Char2D_028_LoopMtn_004.mtn"
-      },
-      "Char2D_028_Mtn_000": {
-         "file": "Char2D_028_Mtn_000.mtn"
-      },
-      "Char2D_028_Mtn_001": {
-         "file": "Char2D_028_Mtn_001.mtn"
-      },
-      "Char2D_028_Mtn_002": {
-         "file": "Char2D_028_Mtn_002.mtn"
-      },
-      "Char2D_028_Mtn_004": {
-         "file": "Char2D_028_Mtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "Char2D_028_DefaultMtn.mtn"
+         },
+         {
+            "file": "Char2D_028_LoopMtn_000.mtn"
+         },
+         {
+            "file": "Char2D_028_LoopMtn_001.mtn"
+         },
+         {
+            "file": "Char2D_028_LoopMtn_002.mtn"
+         },
+         {
+            "file": "Char2D_028_LoopMtn_004.mtn"
+         },
+         {
+            "file": "Char2D_028_Mtn_000.mtn"
+         },
+         {
+            "file": "Char2D_028_Mtn_001.mtn"
+         },
+         {
+            "file": "Char2D_028_Mtn_002.mtn"
+         },
+         {
+            "file": "Char2D_028_Mtn_004.mtn"
+         }
+      ]
    }
 }

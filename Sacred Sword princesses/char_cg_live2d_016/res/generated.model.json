@@ -5,33 +5,34 @@
       "model.1024/texture_00 .png"
    ],
    "motions": {
-      "idle": [],
-      "ChrisDefaultMtn": {
-         "file": "ChrisDefaultMtn.mtn"
-      },
-      "ChrisLoopMtn_000": {
-         "file": "ChrisLoopMtn_000.mtn"
-      },
-      "ChrisLoopMtn_001": {
-         "file": "ChrisLoopMtn_001.mtn"
-      },
-      "ChrisLoopMtn_002": {
-         "file": "ChrisLoopMtn_002.mtn"
-      },
-      "ChrisLoopMtn_004": {
-         "file": "ChrisLoopMtn_004.mtn"
-      },
-      "ChrisMtn_000": {
-         "file": "ChrisMtn_000.mtn"
-      },
-      "ChrisMtn_001": {
-         "file": "ChrisMtn_001.mtn"
-      },
-      "ChrisMtn_002": {
-         "file": "ChrisMtn_002.mtn"
-      },
-      "ChrisMtn_004": {
-         "file": "ChrisMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "ChrisDefaultMtn.mtn"
+         },
+         {
+            "file": "ChrisLoopMtn_000.mtn"
+         },
+         {
+            "file": "ChrisLoopMtn_001.mtn"
+         },
+         {
+            "file": "ChrisLoopMtn_002.mtn"
+         },
+         {
+            "file": "ChrisLoopMtn_004.mtn"
+         },
+         {
+            "file": "ChrisMtn_000.mtn"
+         },
+         {
+            "file": "ChrisMtn_001.mtn"
+         },
+         {
+            "file": "ChrisMtn_002.mtn"
+         },
+         {
+            "file": "ChrisMtn_004.mtn"
+         }
+      ]
    }
 }

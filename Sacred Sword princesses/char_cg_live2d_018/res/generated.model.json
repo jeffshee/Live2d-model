@@ -7,33 +7,34 @@
       "model.1024/texture_02 .png"
    ],
    "motions": {
-      "idle": [],
-      "SelleaDefaultMtn": {
-         "file": "SelleaDefaultMtn.mtn"
-      },
-      "SelleaLoopMtn_000": {
-         "file": "SelleaLoopMtn_000.mtn"
-      },
-      "SelleaLoopMtn_001": {
-         "file": "SelleaLoopMtn_001.mtn"
-      },
-      "SelleaLoopMtn_002": {
-         "file": "SelleaLoopMtn_002.mtn"
-      },
-      "SelleaLoopMtn_004": {
-         "file": "SelleaLoopMtn_004.mtn"
-      },
-      "SelleaMtn_000": {
-         "file": "SelleaMtn_000.mtn"
-      },
-      "SelleaMtn_001": {
-         "file": "SelleaMtn_001.mtn"
-      },
-      "SelleaMtn_002": {
-         "file": "SelleaMtn_002.mtn"
-      },
-      "SelleaMtn_004": {
-         "file": "SelleaMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "SelleaDefaultMtn.mtn"
+         },
+         {
+            "file": "SelleaLoopMtn_000.mtn"
+         },
+         {
+            "file": "SelleaLoopMtn_001.mtn"
+         },
+         {
+            "file": "SelleaLoopMtn_002.mtn"
+         },
+         {
+            "file": "SelleaLoopMtn_004.mtn"
+         },
+         {
+            "file": "SelleaMtn_000.mtn"
+         },
+         {
+            "file": "SelleaMtn_001.mtn"
+         },
+         {
+            "file": "SelleaMtn_002.mtn"
+         },
+         {
+            "file": "SelleaMtn_004.mtn"
+         }
+      ]
    }
 }

@@ -5,33 +5,34 @@
       "model.1024/texture_00 .png"
    ],
    "motions": {
-      "idle": [],
-      "SilicaDefaultMtn": {
-         "file": "SilicaDefaultMtn.mtn"
-      },
-      "SilicaLoopMtn_000": {
-         "file": "SilicaLoopMtn_000.mtn"
-      },
-      "SilicaLoopMtn_001": {
-         "file": "SilicaLoopMtn_001.mtn"
-      },
-      "SilicaLoopMtn_002": {
-         "file": "SilicaLoopMtn_002.mtn"
-      },
-      "SilicaLoopMtn_004": {
-         "file": "SilicaLoopMtn_004.mtn"
-      },
-      "SilicaMtn_000": {
-         "file": "SilicaMtn_000.mtn"
-      },
-      "SilicaMtn_001": {
-         "file": "SilicaMtn_001.mtn"
-      },
-      "SilicaMtn_002": {
-         "file": "SilicaMtn_002.mtn"
-      },
-      "SilicaMtn_004": {
-         "file": "SilicaMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "SilicaDefaultMtn.mtn"
+         },
+         {
+            "file": "SilicaLoopMtn_000.mtn"
+         },
+         {
+            "file": "SilicaLoopMtn_001.mtn"
+         },
+         {
+            "file": "SilicaLoopMtn_002.mtn"
+         },
+         {
+            "file": "SilicaLoopMtn_004.mtn"
+         },
+         {
+            "file": "SilicaMtn_000.mtn"
+         },
+         {
+            "file": "SilicaMtn_001.mtn"
+         },
+         {
+            "file": "SilicaMtn_002.mtn"
+         },
+         {
+            "file": "SilicaMtn_004.mtn"
+         }
+      ]
    }
 }

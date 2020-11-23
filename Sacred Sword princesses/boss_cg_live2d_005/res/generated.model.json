@@ -5,33 +5,34 @@
       "model.1024/texture_00 .png"
    ],
    "motions": {
-      "idle": [],
-      "Boss_005_DefaultMtn": {
-         "file": "Boss_005_DefaultMtn.mtn"
-      },
-      "Boss_005_LoopMtn_000": {
-         "file": "Boss_005_LoopMtn_000.mtn"
-      },
-      "Boss_005_LoopMtn_001": {
-         "file": "Boss_005_LoopMtn_001.mtn"
-      },
-      "Boss_005_LoopMtn_002": {
-         "file": "Boss_005_LoopMtn_002.mtn"
-      },
-      "Boss_005_LoopMtn_004": {
-         "file": "Boss_005_LoopMtn_004.mtn"
-      },
-      "Boss_005_Mtn_000": {
-         "file": "Boss_005_Mtn_000.mtn"
-      },
-      "Boss_005_Mtn_001": {
-         "file": "Boss_005_Mtn_001.mtn"
-      },
-      "Boss_005_Mtn_002": {
-         "file": "Boss_005_Mtn_002.mtn"
-      },
-      "Boss_005_Mtn_004": {
-         "file": "Boss_005_Mtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "Boss_005_DefaultMtn.mtn"
+         },
+         {
+            "file": "Boss_005_LoopMtn_000.mtn"
+         },
+         {
+            "file": "Boss_005_LoopMtn_001.mtn"
+         },
+         {
+            "file": "Boss_005_LoopMtn_002.mtn"
+         },
+         {
+            "file": "Boss_005_LoopMtn_004.mtn"
+         },
+         {
+            "file": "Boss_005_Mtn_000.mtn"
+         },
+         {
+            "file": "Boss_005_Mtn_001.mtn"
+         },
+         {
+            "file": "Boss_005_Mtn_002.mtn"
+         },
+         {
+            "file": "Boss_005_Mtn_004.mtn"
+         }
+      ]
    }
 }

@@ -5,63 +5,64 @@
       "model.2048/texture_00.png"
    ],
    "motions": {
-      "idle": [],
-      "anger": {
-         "file": "mtn/l2d10001b/mtn/anger.mtn"
-      },
-      "anger_loop": {
-         "file": "mtn/l2d10001b/mtn/anger_loop.mtn"
-      },
-      "bashful": {
-         "file": "mtn/l2d10001b/mtn/bashful.mtn"
-      },
-      "bashful_loop": {
-         "file": "mtn/l2d10001b/mtn/bashful_loop.mtn"
-      },
-      "blues": {
-         "file": "mtn/l2d10001b/mtn/blues.mtn"
-      },
-      "blues_loop": {
-         "file": "mtn/l2d10001b/mtn/blues_loop.mtn"
-      },
-      "confidence": {
-         "file": "mtn/l2d10001b/mtn/confidence.mtn"
-      },
-      "confidence_loop": {
-         "file": "mtn/l2d10001b/mtn/confidence_loop.mtn"
-      },
-      "elapse": {
-         "file": "mtn/l2d10001b/mtn/elapse.mtn"
-      },
-      "joy": {
-         "file": "mtn/l2d10001b/mtn/joy.mtn"
-      },
-      "joy2": {
-         "file": "mtn/l2d10001b/mtn/joy2.mtn"
-      },
-      "joy2_loop": {
-         "file": "mtn/l2d10001b/mtn/joy2_loop.mtn"
-      },
-      "joy_loop": {
-         "file": "mtn/l2d10001b/mtn/joy_loop.mtn"
-      },
-      "loop": {
-         "file": "mtn/l2d10001b/mtn/loop.mtn"
-      },
-      "surprise": {
-         "file": "mtn/l2d10001b/mtn/surprise.mtn"
-      },
-      "surprise_loop": {
-         "file": "mtn/l2d10001b/mtn/surprise_loop.mtn"
-      },
-      "tap1": {
-         "file": "mtn/l2d10001b/mtn/tap1.mtn"
-      },
-      "tap2": {
-         "file": "mtn/l2d10001b/mtn/tap2.mtn"
-      },
-      "tap3": {
-         "file": "mtn/l2d10001b/mtn/tap3.mtn"
-      }
+      "idle": [
+         {
+            "file": "mtn/l2d10001b/mtn/anger.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/anger_loop.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/bashful.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/bashful_loop.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/blues.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/blues_loop.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/confidence.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/confidence_loop.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/elapse.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/joy.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/joy2.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/joy2_loop.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/joy_loop.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/loop.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/surprise.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/surprise_loop.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/tap1.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/tap2.mtn"
+         },
+         {
+            "file": "mtn/l2d10001b/mtn/tap3.mtn"
+         }
+      ]
    }
 }

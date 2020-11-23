@@ -7,39 +7,40 @@
       "model.1024/texture_02 .png"
    ],
    "motions": {
-      "idle": [],
-      "RunaDefaultMtn": {
-         "file": "RunaDefaultMtn.mtn"
-      },
-      "RunaLoopMtn_000": {
-         "file": "RunaLoopMtn_000.mtn"
-      },
-      "RunaLoopMtn_001": {
-         "file": "RunaLoopMtn_001.mtn"
-      },
-      "RunaLoopMtn_002": {
-         "file": "RunaLoopMtn_002.mtn"
-      },
-      "RunaLoopMtn_003": {
-         "file": "RunaLoopMtn_003.mtn"
-      },
-      "RunaLoopMtn_004": {
-         "file": "RunaLoopMtn_004.mtn"
-      },
-      "RunaMtn_000": {
-         "file": "RunaMtn_000.mtn"
-      },
-      "RunaMtn_001": {
-         "file": "RunaMtn_001.mtn"
-      },
-      "RunaMtn_002": {
-         "file": "RunaMtn_002.mtn"
-      },
-      "RunaMtn_003": {
-         "file": "RunaMtn_003.mtn"
-      },
-      "RunaMtn_004": {
-         "file": "RunaMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "RunaDefaultMtn.mtn"
+         },
+         {
+            "file": "RunaLoopMtn_000.mtn"
+         },
+         {
+            "file": "RunaLoopMtn_001.mtn"
+         },
+         {
+            "file": "RunaLoopMtn_002.mtn"
+         },
+         {
+            "file": "RunaLoopMtn_003.mtn"
+         },
+         {
+            "file": "RunaLoopMtn_004.mtn"
+         },
+         {
+            "file": "RunaMtn_000.mtn"
+         },
+         {
+            "file": "RunaMtn_001.mtn"
+         },
+         {
+            "file": "RunaMtn_002.mtn"
+         },
+         {
+            "file": "RunaMtn_003.mtn"
+         },
+         {
+            "file": "RunaMtn_004.mtn"
+         }
+      ]
    }
 }

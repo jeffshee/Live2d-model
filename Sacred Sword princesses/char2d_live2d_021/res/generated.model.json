@@ -6,33 +6,34 @@
       "model.1024/texture_01 .png"
    ],
    "motions": {
-      "idle": [],
-      "ShalulaDefaultMtn": {
-         "file": "ShalulaDefaultMtn.mtn"
-      },
-      "ShalulaLoopMtn_000": {
-         "file": "ShalulaLoopMtn_000.mtn"
-      },
-      "ShalulaLoopMtn_001": {
-         "file": "ShalulaLoopMtn_001.mtn"
-      },
-      "ShalulaLoopMtn_002": {
-         "file": "ShalulaLoopMtn_002.mtn"
-      },
-      "ShalulaLoopMtn_004": {
-         "file": "ShalulaLoopMtn_004.mtn"
-      },
-      "ShalulaMtn_000": {
-         "file": "ShalulaMtn_000.mtn"
-      },
-      "ShalulaMtn_001": {
-         "file": "ShalulaMtn_001.mtn"
-      },
-      "ShalulaMtn_002": {
-         "file": "ShalulaMtn_002.mtn"
-      },
-      "ShalulaMtn_004": {
-         "file": "ShalulaMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "ShalulaDefaultMtn.mtn"
+         },
+         {
+            "file": "ShalulaLoopMtn_000.mtn"
+         },
+         {
+            "file": "ShalulaLoopMtn_001.mtn"
+         },
+         {
+            "file": "ShalulaLoopMtn_002.mtn"
+         },
+         {
+            "file": "ShalulaLoopMtn_004.mtn"
+         },
+         {
+            "file": "ShalulaMtn_000.mtn"
+         },
+         {
+            "file": "ShalulaMtn_001.mtn"
+         },
+         {
+            "file": "ShalulaMtn_002.mtn"
+         },
+         {
+            "file": "ShalulaMtn_004.mtn"
+         }
+      ]
    }
 }

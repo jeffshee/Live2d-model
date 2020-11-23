@@ -5,33 +5,34 @@
       "model.1024/texture_00 .png"
    ],
    "motions": {
-      "idle": [],
-      "FinaDefaultMtn": {
-         "file": "FinaDefaultMtn.mtn"
-      },
-      "FinaLoopMtn_000": {
-         "file": "FinaLoopMtn_000.mtn"
-      },
-      "FinaLoopMtn_001": {
-         "file": "FinaLoopMtn_001.mtn"
-      },
-      "FinaLoopMtn_002": {
-         "file": "FinaLoopMtn_002.mtn"
-      },
-      "FinaLoopMtn_004": {
-         "file": "FinaLoopMtn_004.mtn"
-      },
-      "FinaMtn_000": {
-         "file": "FinaMtn_000.mtn"
-      },
-      "FinaMtn_001": {
-         "file": "FinaMtn_001.mtn"
-      },
-      "FinaMtn_002": {
-         "file": "FinaMtn_002.mtn"
-      },
-      "FinaMtn_004": {
-         "file": "FinaMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "FinaDefaultMtn.mtn"
+         },
+         {
+            "file": "FinaLoopMtn_000.mtn"
+         },
+         {
+            "file": "FinaLoopMtn_001.mtn"
+         },
+         {
+            "file": "FinaLoopMtn_002.mtn"
+         },
+         {
+            "file": "FinaLoopMtn_004.mtn"
+         },
+         {
+            "file": "FinaMtn_000.mtn"
+         },
+         {
+            "file": "FinaMtn_001.mtn"
+         },
+         {
+            "file": "FinaMtn_002.mtn"
+         },
+         {
+            "file": "FinaMtn_004.mtn"
+         }
+      ]
    }
 }

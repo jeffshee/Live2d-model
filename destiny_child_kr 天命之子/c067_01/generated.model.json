@@ -1,0 +1,26 @@
+{
+   "version": "Sample 1.0.0",
+   "model": "model.moc",
+   "textures": [
+      "textures/texture_00.png"
+   ],
+   "motions": {
+      "idle": [
+         {
+            "file": "motions/00.mtn"
+         },
+         {
+            "file": "motions/01.mtn"
+         },
+         {
+            "file": "motions/02.mtn"
+         },
+         {
+            "file": "motions/03.mtn"
+         },
+         {
+            "file": "motions/04.mtn"
+         }
+      ]
+   }
+}

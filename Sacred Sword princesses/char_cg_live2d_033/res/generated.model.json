@@ -5,33 +5,34 @@
       "model.1024/texture_00 .png"
    ],
    "motions": {
-      "idle": [],
-      "VeidaDefaultMtn": {
-         "file": "VeidaDefaultMtn.mtn"
-      },
-      "VeidaLoopMtn_000": {
-         "file": "VeidaLoopMtn_000.mtn"
-      },
-      "VeidaLoopMtn_001": {
-         "file": "VeidaLoopMtn_001.mtn"
-      },
-      "VeidaLoopMtn_002": {
-         "file": "VeidaLoopMtn_002.mtn"
-      },
-      "VeidaLoopMtn_004": {
-         "file": "VeidaLoopMtn_004.mtn"
-      },
-      "VeidaMtn_000": {
-         "file": "VeidaMtn_000.mtn"
-      },
-      "VeidaMtn_001": {
-         "file": "VeidaMtn_001.mtn"
-      },
-      "VeidaMtn_002": {
-         "file": "VeidaMtn_002.mtn"
-      },
-      "VeidaMtn_004": {
-         "file": "VeidaMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "VeidaDefaultMtn.mtn"
+         },
+         {
+            "file": "VeidaLoopMtn_000.mtn"
+         },
+         {
+            "file": "VeidaLoopMtn_001.mtn"
+         },
+         {
+            "file": "VeidaLoopMtn_002.mtn"
+         },
+         {
+            "file": "VeidaLoopMtn_004.mtn"
+         },
+         {
+            "file": "VeidaMtn_000.mtn"
+         },
+         {
+            "file": "VeidaMtn_001.mtn"
+         },
+         {
+            "file": "VeidaMtn_002.mtn"
+         },
+         {
+            "file": "VeidaMtn_004.mtn"
+         }
+      ]
    }
 }

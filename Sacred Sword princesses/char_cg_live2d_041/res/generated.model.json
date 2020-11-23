@@ -5,33 +5,34 @@
       "model.1024/texture_00 .png"
    ],
    "motions": {
-      "idle": [],
-      "ScareDefaultMtn": {
-         "file": "ScareDefaultMtn.mtn"
-      },
-      "ScareLoopMtn_000": {
-         "file": "ScareLoopMtn_000.mtn"
-      },
-      "ScareLoopMtn_001": {
-         "file": "ScareLoopMtn_001.mtn"
-      },
-      "ScareLoopMtn_002": {
-         "file": "ScareLoopMtn_002.mtn"
-      },
-      "ScareLoopMtn_004": {
-         "file": "ScareLoopMtn_004.mtn"
-      },
-      "ScareMtn_000": {
-         "file": "ScareMtn_000.mtn"
-      },
-      "ScareMtn_001": {
-         "file": "ScareMtn_001.mtn"
-      },
-      "ScareMtn_002": {
-         "file": "ScareMtn_002.mtn"
-      },
-      "ScareMtn_004": {
-         "file": "ScareMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "ScareDefaultMtn.mtn"
+         },
+         {
+            "file": "ScareLoopMtn_000.mtn"
+         },
+         {
+            "file": "ScareLoopMtn_001.mtn"
+         },
+         {
+            "file": "ScareLoopMtn_002.mtn"
+         },
+         {
+            "file": "ScareLoopMtn_004.mtn"
+         },
+         {
+            "file": "ScareMtn_000.mtn"
+         },
+         {
+            "file": "ScareMtn_001.mtn"
+         },
+         {
+            "file": "ScareMtn_002.mtn"
+         },
+         {
+            "file": "ScareMtn_004.mtn"
+         }
+      ]
    }
 }

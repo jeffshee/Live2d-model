@@ -7,33 +7,34 @@
       "model.1024/texture_02 .png"
    ],
    "motions": {
-      "idle": [],
-      "RainaDefaultMtn": {
-         "file": "RainaDefaultMtn.mtn"
-      },
-      "RainaLoopMtn_000": {
-         "file": "RainaLoopMtn_000.mtn"
-      },
-      "RainaLoopMtn_001": {
-         "file": "RainaLoopMtn_001.mtn"
-      },
-      "RainaLoopMtn_002": {
-         "file": "RainaLoopMtn_002.mtn"
-      },
-      "RainaLoopMtn_004": {
-         "file": "RainaLoopMtn_004.mtn"
-      },
-      "RainaMtn_000": {
-         "file": "RainaMtn_000.mtn"
-      },
-      "RainaMtn_001": {
-         "file": "RainaMtn_001.mtn"
-      },
-      "RainaMtn_002": {
-         "file": "RainaMtn_002.mtn"
-      },
-      "RainaMtn_004": {
-         "file": "RainaMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "RainaDefaultMtn.mtn"
+         },
+         {
+            "file": "RainaLoopMtn_000.mtn"
+         },
+         {
+            "file": "RainaLoopMtn_001.mtn"
+         },
+         {
+            "file": "RainaLoopMtn_002.mtn"
+         },
+         {
+            "file": "RainaLoopMtn_004.mtn"
+         },
+         {
+            "file": "RainaMtn_000.mtn"
+         },
+         {
+            "file": "RainaMtn_001.mtn"
+         },
+         {
+            "file": "RainaMtn_002.mtn"
+         },
+         {
+            "file": "RainaMtn_004.mtn"
+         }
+      ]
    }
 }

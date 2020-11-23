@@ -6,36 +6,37 @@
       "model.512/texture_01.png"
    ],
    "motions": {
-      "idle": [],
-      "Elapse": {
-         "file": "mtn/Elapse.mtn"
-      },
-      "Tap1": {
-         "file": "mtn/Tap1.mtn"
-      },
-      "Tap2": {
-         "file": "mtn/Tap2.mtn"
-      },
-      "anger": {
-         "file": "mtn/anger.mtn"
-      },
-      "blues": {
-         "file": "mtn/blues.mtn"
-      },
-      "cutin": {
-         "file": "mtn/cutin.mtn"
-      },
-      "ease": {
-         "file": "mtn/ease.mtn"
-      },
-      "joy": {
-         "file": "mtn/joy.mtn"
-      },
-      "loop": {
-         "file": "mtn/loop.mtn"
-      },
-      "tap3": {
-         "file": "mtn/tap3.mtn"
-      }
+      "idle": [
+         {
+            "file": "mtn/Elapse.mtn"
+         },
+         {
+            "file": "mtn/Tap1.mtn"
+         },
+         {
+            "file": "mtn/Tap2.mtn"
+         },
+         {
+            "file": "mtn/anger.mtn"
+         },
+         {
+            "file": "mtn/blues.mtn"
+         },
+         {
+            "file": "mtn/cutin.mtn"
+         },
+         {
+            "file": "mtn/ease.mtn"
+         },
+         {
+            "file": "mtn/joy.mtn"
+         },
+         {
+            "file": "mtn/loop.mtn"
+         },
+         {
+            "file": "mtn/tap3.mtn"
+         }
+      ]
    }
 }

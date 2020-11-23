@@ -7,33 +7,34 @@
       "model.1024/texture_02 .png"
    ],
    "motions": {
-      "idle": [],
-      "AinirDefaultMtn": {
-         "file": "AinirDefaultMtn.mtn"
-      },
-      "AinirLoopMtn_000": {
-         "file": "AinirLoopMtn_000.mtn"
-      },
-      "AinirLoopMtn_001": {
-         "file": "AinirLoopMtn_001.mtn"
-      },
-      "AinirLoopMtn_002": {
-         "file": "AinirLoopMtn_002.mtn"
-      },
-      "AinirLoopMtn_004": {
-         "file": "AinirLoopMtn_004.mtn"
-      },
-      "AinirMtn_000": {
-         "file": "AinirMtn_000.mtn"
-      },
-      "AinirMtn_001": {
-         "file": "AinirMtn_001.mtn"
-      },
-      "AinirMtn_002": {
-         "file": "AinirMtn_002.mtn"
-      },
-      "AinirMtn_004": {
-         "file": "AinirMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "AinirDefaultMtn.mtn"
+         },
+         {
+            "file": "AinirLoopMtn_000.mtn"
+         },
+         {
+            "file": "AinirLoopMtn_001.mtn"
+         },
+         {
+            "file": "AinirLoopMtn_002.mtn"
+         },
+         {
+            "file": "AinirLoopMtn_004.mtn"
+         },
+         {
+            "file": "AinirMtn_000.mtn"
+         },
+         {
+            "file": "AinirMtn_001.mtn"
+         },
+         {
+            "file": "AinirMtn_002.mtn"
+         },
+         {
+            "file": "AinirMtn_004.mtn"
+         }
+      ]
    }
 }

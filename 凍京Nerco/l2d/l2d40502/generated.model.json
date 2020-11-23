@@ -5,9 +5,10 @@
       "model.2048/texture_00.png"
    ],
    "motions": {
-      "idle": [],
-      "loop": {
-         "file": "mtn/loop.mtn"
-      }
+      "idle": [
+         {
+            "file": "mtn/loop.mtn"
+         }
+      ]
    }
 }

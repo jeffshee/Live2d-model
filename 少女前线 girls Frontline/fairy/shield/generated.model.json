@@ -8,16 +8,16 @@
       "idle": [
          {
             "file": "motions/daiji_idle_01.mtn"
+         },
+         {
+            "file": "motions/motou_01.mtn"
+         },
+         {
+            "file": "motions/motou_02.mtn"
+         },
+         {
+            "file": "motions/motou_03.mtn"
          }
-      ],
-      "motou_01": {
-         "file": "motions/motou_01.mtn"
-      },
-      "motou_02": {
-         "file": "motions/motou_02.mtn"
-      },
-      "motou_03": {
-         "file": "motions/motou_03.mtn"
-      }
+      ]
    }
 }

@@ -7,35 +7,35 @@
    "motions": {
       "idle": [
          {
+            "file": "motions/gacha01.mtn"
+         },
+         {
             "file": "motions/idle.mtn"
          },
          {
             "file": "motions/idle01.mtn"
+         },
+         {
+            "file": "motions/m_awate.mtn"
+         },
+         {
+            "file": "motions/m_awate_ingameV2.mtn"
+         },
+         {
+            "file": "motions/m_nf01.mtn"
+         },
+         {
+            "file": "motions/m_nf03.mtn"
+         },
+         {
+            "file": "motions/m_nf04.mtn"
+         },
+         {
+            "file": "motions/m_sad.mtn"
+         },
+         {
+            "file": "motions/m_surprised.mtn"
          }
-      ],
-      "gacha01": {
-         "file": "motions/gacha01.mtn"
-      },
-      "m_awate": {
-         "file": "motions/m_awate.mtn"
-      },
-      "m_awate_ingameV2": {
-         "file": "motions/m_awate_ingameV2.mtn"
-      },
-      "m_nf01": {
-         "file": "motions/m_nf01.mtn"
-      },
-      "m_nf03": {
-         "file": "motions/m_nf03.mtn"
-      },
-      "m_nf04": {
-         "file": "motions/m_nf04.mtn"
-      },
-      "m_sad": {
-         "file": "motions/m_sad.mtn"
-      },
-      "m_surprised": {
-         "file": "motions/m_surprised.mtn"
-      }
+      ]
    }
 }

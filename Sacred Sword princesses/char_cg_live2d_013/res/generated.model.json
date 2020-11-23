@@ -5,33 +5,34 @@
       "model.1024/texture_00 .png"
    ],
    "motions": {
-      "idle": [],
-      "LamiDefaultMtn": {
-         "file": "LamiDefaultMtn.mtn"
-      },
-      "LamiLoopMtn_000": {
-         "file": "LamiLoopMtn_000.mtn"
-      },
-      "LamiLoopMtn_001": {
-         "file": "LamiLoopMtn_001.mtn"
-      },
-      "LamiLoopMtn_002": {
-         "file": "LamiLoopMtn_002.mtn"
-      },
-      "LamiLoopMtn_004": {
-         "file": "LamiLoopMtn_004.mtn"
-      },
-      "LamiMtn_000": {
-         "file": "LamiMtn_000.mtn"
-      },
-      "LamiMtn_001": {
-         "file": "LamiMtn_001.mtn"
-      },
-      "LamiMtn_002": {
-         "file": "LamiMtn_002.mtn"
-      },
-      "LamiMtn_004": {
-         "file": "LamiMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "LamiDefaultMtn.mtn"
+         },
+         {
+            "file": "LamiLoopMtn_000.mtn"
+         },
+         {
+            "file": "LamiLoopMtn_001.mtn"
+         },
+         {
+            "file": "LamiLoopMtn_002.mtn"
+         },
+         {
+            "file": "LamiLoopMtn_004.mtn"
+         },
+         {
+            "file": "LamiMtn_000.mtn"
+         },
+         {
+            "file": "LamiMtn_001.mtn"
+         },
+         {
+            "file": "LamiMtn_002.mtn"
+         },
+         {
+            "file": "LamiMtn_004.mtn"
+         }
+      ]
    }
 }

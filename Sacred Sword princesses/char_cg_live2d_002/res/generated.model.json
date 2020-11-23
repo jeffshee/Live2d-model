@@ -6,33 +6,34 @@
       "model.1024/texture_01 .png"
    ],
    "motions": {
-      "idle": [],
-      "SimiDefaultMtn": {
-         "file": "SimiDefaultMtn.mtn"
-      },
-      "SimiLoopMtn_000": {
-         "file": "SimiLoopMtn_000.mtn"
-      },
-      "SimiLoopMtn_001": {
-         "file": "SimiLoopMtn_001.mtn"
-      },
-      "SimiLoopMtn_002": {
-         "file": "SimiLoopMtn_002.mtn"
-      },
-      "SimiLoopMtn_004": {
-         "file": "SimiLoopMtn_004.mtn"
-      },
-      "SimiMtn_000": {
-         "file": "SimiMtn_000.mtn"
-      },
-      "SimiMtn_001": {
-         "file": "SimiMtn_001.mtn"
-      },
-      "SimiMtn_002": {
-         "file": "SimiMtn_002.mtn"
-      },
-      "SimiMtn_004": {
-         "file": "SimiMtn_004.mtn"
-      }
+      "idle": [
+         {
+            "file": "SimiDefaultMtn.mtn"
+         },
+         {
+            "file": "SimiLoopMtn_000.mtn"
+         },
+         {
+            "file": "SimiLoopMtn_001.mtn"
+         },
+         {
+            "file": "SimiLoopMtn_002.mtn"
+         },
+         {
+            "file": "SimiLoopMtn_004.mtn"
+         },
+         {
+            "file": "SimiMtn_000.mtn"
+         },
+         {
+            "file": "SimiMtn_001.mtn"
+         },
+         {
+            "file": "SimiMtn_002.mtn"
+         },
+         {
+            "file": "SimiMtn_004.mtn"
+         }
+      ]
    }
 }
